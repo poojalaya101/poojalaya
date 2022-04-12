@@ -1,0 +1,314 @@
+# [[main]]
+#     name = "About Panditji"
+#     weight = 18
+#
+# [[main]]
+#     name = "Services"
+#     weight = 19
+#baseurl = "/"
+#https://www.rudraksha-ratna.com/articles/what-are-homams
+#https://www.vedicfolks.com/ganapathy-homam.html
+#https://en.wikipedia.org/wiki/Ganesha
+#https://www.divyadesam.com/homams/ganapathy-homam/ganapathy-homam.shtml
+#https://www.vedictempleofvirginia.org/puja.html
+#https://www.vedictempleofvirginia.org/ganapathi.html
+#https://www.skaifoundation.org/ganapathi-homam-list/
+#https://www.divyadesam.com/hindu/poojas/hindu-poojas.shtml
+#https://myoksha.com/ganapathi-homam/
+#https://medium.com/@chandruram/a-perspective-on-the-science-behind-the-hindu-homam-ritual-6bc44536d91c
+#https://en.wikipedia.org/wiki/Samskara_(rite_of_passage)
+#https://en.wikipedia.org/wiki/Homa_(ritual)
+#https://www.rudraksha-ratna.com/articles/what-are-homams
+#https://www.tirthpurohit.org/special-events/type-of-rituals-perform-in-kashi-and-thiers-relevance/
+#https://www.tirthpurohit.org/special-events/why-to-perform-homams-and-relevance-of-homam/
+#https://www.ashtangayoga.info/philosophy/sanskrit-and-devanagari/transliteration-tool/#velthuis/devanagari/agni
+#http://www.mukhopadhyay.in/2011/08/rig-veda-111.html
+#https://wordpress.com/support/markdown-quick-reference/
+[[main]]
+    name = "Homams"
+    url = "/homams/homam-havan"
+    weight = 20
+[[main]]
+    parent = "Homams"
+    name = "Sri Ganapati Homam"
+    url = "/homams/sri-ganapati-homam"
+    weight = 21
+[[main]]
+    parent = "Homams"
+    name = "Aayushya Homam"
+    url = "/homams/aayushya-homam"
+    weight = 22
+[[main]]
+    parent = "Homams"
+    name = "Maha Mrityunjaya Homam"
+    weight = 22
+[[main]]
+    parent = "Homams"
+    name = "Navagraha Homam"
+    weight = 23
+[[main]]
+    parent = "Homams"
+    name = "Aayush Homam / Birthday Special Puja"
+    weight = 24
+[[main]]
+    parent = "Homams"
+    name = "Sudharshana Homam"
+    weight = 25
+[[main]]
+    parent = "Homams"
+    name = "Nava Chandi Homam"
+    weight = 26
+[[main]]
+    parent = "Homams"
+    name = "Shata Chandi Homam"
+    weight = 27
+[[main]]
+    parent = "Homams"
+    name = "Sahasra Chandi Homam"
+    weight = 28
+[[main]]
+    parent = "Homams"
+    name = "Laghu Rudram"
+    weight = 29
+[[main]]
+    parent = "Homams"
+    name = "Maha Rudram"
+    weight = 30
+[[main]]
+    parent = "Homams"
+    name = "Prana Pratishthapana"
+    weight = 31
+[[main]]
+    parent = "Homams"
+    name = "Kumbhabhishekam"
+    weight = 32
+
+[[main]]
+    name = "Samskaarams"
+    weight = 40
+[[main]]
+    parent = "Samskaarams"
+    name = "Garbhaadaanam"
+    weight = 41
+[[main]]
+    parent = "Samskaarams"
+    name = "Pumsavanam"
+    weight = 42
+[[main]]
+    parent = "Samskaarams"
+    name = "Seemantham / Seemantonnayanam / Baby shower"
+    weight = 43
+[[main]]
+    parent = "Samskaarams"
+    name = "Aayush Homam / Birthday Special Puja"
+    weight = 44
+[[main]]
+    parent = "Samskaarams"
+    name = "Jaatakarma"
+    weight = 45
+[[main]]
+    parent = "Samskaarams"
+    name = "Namakaranam"
+    weight = 46
+[[main]]
+    parent = "Samskaarams"
+    name = "Annaprashanam"
+    weight = 47
+[[main]]
+    parent = "Samskaarams"
+    name = "Aksharabhyasam ( beginning of education )"
+    weight = 48
+[[main]]
+    parent = "Samskaarams"
+    name = "Chaulam & Upanayanam (Munj / Janeu / Yagnopavitam)"
+    weight = 49
+[[main]]
+    parent = "Samskaarams"
+    name = "Prayashchittam & Samvartanam"
+    weight = 50
+[[main]]
+    parent = "Samskaarams"
+    name = "Vivah / Wedding"
+    weight = 51
+
+[[main]]
+    name = "Shanthis"
+    weight = 60
+[[main]]
+    parent = "Shanthis"
+    name = "Udhaka Shanthi"
+    weight = 61
+[[main]]
+    parent = "Shanthis"
+    name = "Grihapravesham / Vaastu Shanthi"
+    weight = 62
+[[main]]
+    parent = "Shanthis"
+    name = "Navagraha Shanthi"
+    weight = 63
+[[main]]
+    parent = "Shanthis"
+    name = "Kal-Sarppa Shanthi"
+    weight = 64
+[[main]]
+    parent = "Shanthis"
+    name = "Janan Shanthi"
+    weight = 65
+[[main]]
+    parent = "Shanthis"
+    name = "Nakshatra Shanthi"
+    weight = 66
+[[main]]
+    parent = "Shanthis"
+    name = "Parihar Shanthi"
+    weight = 67
+[[main]]
+    parent = "Shanthis"
+    name = "60'th Birthday Ugraratha Shanthi"
+    weight = 68
+[[main]]
+    parent = "Shanthis"
+    name = "65'th Birthday Mrutyunjay Maharathi Shanthi"
+    weight = 69
+[[main]]
+    parent = "Shanthis"
+    name = "70'th Birthday Bhimaratha Shanthi"
+    weight = 70
+[[main]]
+    parent = "Shanthis"
+    name = "75'th Birthday Aaindri Shanti"
+    weight = 71
+[[main]]
+    parent = "Shanthis"
+    name = "80'th Birthday Sahasra Chandra Darshana Shanthi"
+    weight = 72
+[[main]]
+    parent = "Shanthis"
+    name = "85'th Birthday Raudri Shanthi"
+    weight = 73
+[[main]]
+    parent = "Shanthis"
+    name = "90'th Birthday Kal Swarupa Sauri Shanthi"
+    weight = 74
+[[main]]
+    parent = "Shanthis"
+    name = "95'th Birthday Tryambaka Maharathi Shanthi"
+    weight = 75
+[[main]]
+    parent = "Shanthis"
+    name = "100'th Birthday Shatabdi Maha Mrutyunjaya Shanthi"
+    weight = 76
+
+[[main]]
+    name = "Poojas"
+    weight = 80
+[[main]]
+    parent = "Poojas"
+    name = "Sri Ganesha Pooja"
+    weight = 81
+[[main]]
+    parent = "Poojas"
+    name = "Sri Lakshmi Pooja"
+    weight = 82
+[[main]]
+    parent = "Poojas"
+    name = "Sri Satyanarayana Pooja"
+    weight = 83
+[[main]]
+    parent = "Poojas"
+    name = "Sri Durga Pooja"
+    weight = 84
+[[main]]
+    parent = "Poojas"
+    name = "Sri Shiv Pooja"
+    weight = 85
+# [[main]]
+#     parent = "Poojas"
+#     name = "Nakshatra Shanthi"
+#     weight = 66
+# [[main]]
+#     parent = "Poojas"
+#     name = "Parihar Shanthi"
+#     weight = 67
+# [[main]]
+#     parent = "Poojas"
+#     name = "60'th Birthday Ugraratha Shanthi"
+#     weight = 68
+# [[main]]
+#     parent = "Poojas"
+#     name = "65'th Birthday Mrutyunjay Maharathi Shanthi"
+#     weight = 69
+# [[main]]
+#     parent = "Poojas"
+#     name = "70'th Birthday Bhimaratha Shanthi"
+#     weight = 70
+# [[main]]
+#     parent = "Poojas"
+#     name = "75'th Birthday Aaindri Shanti"
+#     weight = 71
+# [[main]]
+#     parent = "Poojas"
+#     name = "80'th Birthday Sahasra Chandra Darshana Shanthi"
+#     weight = 72
+
+# [[main]]
+#     parent = "Shanthis"
+#     name = "Prayashchittam & Samvartanam"
+#     weight = 77
+# [[main]]
+#     parent = "Shanthis"
+#     name = "Vivah / Wedding"
+#     weight = 78
+
+    #
+    # 65’th Birth Mrutyunjay Maharathi Shanti
+    # 70’th Birth Bhimaratha Shanti
+    # 75’th Birth Aaindri Shanti
+    # 80’th Birth Sahasra Chandra Darshana Shanti
+    # 85’th Birth Raudri Shanti
+    # 90’th Birth Kal Swarupa Sauri Shanti
+    # 95’th Birth Tryambaka Maharathi Shanti
+    # 100’th Birth Shatabdi – Maha Mrutyunjaya Shanti
+    # Udaka Shanti
+    # Grihapravesham / Vastu Shanti
+    # Navagraha Shanti
+    # Kal-Sarpa Shanti
+    # Janan Shanti
+    # Nakshatra Shanti
+    # Parihar Shanti
+    # Sri Ganesh Pooja
+    # Sri Lakshmi Pooja
+    # Sri Satyanarayana Pooja
+    # Sri Durga Pooja
+    # Sri Shiv Pooja
+
+[[main]]
+    parent = "Homams"
+    name = "Submenu"
+    weight = 134
+[[main]]
+    parent = "Submenu"
+    name = "Lorem dolor"
+    identifier = "sub-lorem"
+    weight = 135
+[[main]]
+    parent = "Submenu"
+    name = "Phasellus magna"
+    weight = 136
+[[main]]
+    parent = "Submenu"
+    name = "Magna phasellus"
+    weight = 137
+[[main]]
+    parent = "Submenu"
+    name = "Etiam nisl"
+    weight = 138
+[[main]]
+    parent = "Submenu"
+    name = "Veroeros feugiat"
+    identifier = "sub-veroeros"
+    weight = 139
+# [[main]]
+#     parent = "Dropdown"
+#     name = "Veroeros feugiat"
+#     weight = 400

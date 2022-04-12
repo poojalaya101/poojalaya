@@ -1,0 +1,3652 @@
+[
+  {
+   "Date": "01/01/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Chaturdashi from : 02:11 PM",
+   "Nakshatram": "Kettai from : 05:48 AM",
+   "Yogam": "Si from : 5:48am;#Si",
+   "Rahu": "09:50am-11:01am",
+   "Yama": "01:23pm-02:34pm",
+   "Guli": "07:28am-08:39am"
+ },
+ {
+   "Date": "02/01/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Amaavaasai from : 10:33 AM",
+   "Nakshatram": "Moolam from : 02:54 AM",
+   "Yogam": "Am from : 2:54am;#Si",
+   "Rahu": "03:45pm-04:56pm",
+   "Yama": "12:12pm-01:23pm",
+   "Guli": "02:34pm-03:45pm"
+ },
+ {
+   "Date": "03/01/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Pirathamai from : 07:02 AM",
+   "Nakshatram": "Pooradam from : 12:03 AM; Uthiradam from : 09:27 PM",
+   "Yogam": "Si from : 0:03am;#Ma Ma from : 9:27pm;#Am",
+   "Rahu": "08:39am-09:50am",
+   "Yama": "11:01am-12:12pm",
+   "Guli": "01:24pm-02:35pm"
+ },
+ {
+   "Date": "04/01/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Dwitiyai from : 03:49 AM",
+   "Nakshatram": "Thiruvonam from : 07:16 PM",
+   "Yogam": "Si from : 7:16pm;#Si",
+   "Rahu": "02:36pm-03:47pm",
+   "Yama": "09:50am-11:01am",
+   "Guli": "12:13pm-01:24pm"
+ },
+ {
+   "Date": "05/01/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Thiruthiyai from : 01:05 AM Suklapaksha - Chaturthi from : 10:59 PM",
+   "Nakshatram": "Avittam from : 05:42 PM",
+   "Yogam": "Ma from : 5:42pm;#Si",
+   "Rahu": "12:14pm-01:25pm",
+   "Yama": "08:39am-09:50am",
+   "Guli": "11:02am-12:13pm"
+ },
+ {
+   "Date": "06/01/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Panchami from : 09:40 PM",
+   "Nakshatram": "Sathayam from : 04:51 PM",
+   "Yogam": "Ma from : 4:51pm;#Si",
+   "Rahu": "01:26pm-02:37pm",
+   "Yama": "07:28am-08:39am",
+   "Guli": "09:51am-11:02am"
+ },
+ {
+   "Date": "07/01/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Sashti from : 09:13 PM",
+   "Nakshatram": "Poorattathi from : 04:50 PM",
+   "Yogam": "Si from : 4:50pm;#Si",
+   "Rahu": "11:03am-12:14pm",
+   "Yama": "02:38pm-03:49pm",
+   "Guli": "08:39am-09:50am"
+ },
+ {
+   "Date": "08/01/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Sapthami from : 09:39 PM",
+   "Nakshatram": "Uthirattathi from : 05:41 PM",
+   "Yogam": "Si from : 5:41pm;#Ma",
+   "Rahu": "09:51am-11:02am",
+   "Yama": "01:26pm-02:37pm",
+   "Guli": "07:28am-08:39am"
+ },
+ {
+   "Date": "09/01/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Ashtami from : 10:54 PM",
+   "Nakshatram": "Revathi from : 07:20 PM",
+   "Yogam": "Am from : 7:20pm;#Si",
+   "Rahu": "03:51pm-05:03pm",
+   "Yama": "12:15pm-01:27pm",
+   "Guli": "02:39pm-03:51pm"
+ },
+ {
+   "Date": "10/01/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Navami from : 00:51am+",
+   "Nakshatram": "Aswini from : 09:40 PM",
+   "Yogam": "Si from : 9:40pm;#Si",
+   "Rahu": "08:39am-09:51am",
+   "Yama": "11:03am-12:15pm",
+   "Guli": "01:27pm-02:39pm"
+ },
+ {
+   "Date": "11/01/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Navami from : 12:51 AM",
+   "Nakshatram": "Bharani from : 0:31am+",
+   "Yogam": "Si",
+   "Rahu": "02:40pm-03:52pm",
+   "Yama": "09:51am-11:03am",
+   "Guli": "12:16pm-01:28pm"
+ },
+ {
+   "Date": "12/01/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Dashami from : 03:19 AM",
+   "Nakshatram": "Bharani from : 12:31 AM",
+   "Yogam": "Si from : 0:31am;#Am",
+   "Rahu": "12:16pm-01:28pm",
+   "Yama": "08:39am-09:51am",
+   "Guli": "11:04am-12:16pm"
+ },
+ {
+   "Date": "13/01/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Ekadashi from : 06:02 AM",
+   "Nakshatram": "Karthigai from : 03:37 AM",
+   "Yogam": "Ma from : 3:37am;#Ma",
+   "Rahu": "01:29pm-02:41pm",
+   "Yama": "07:27am-08:39am",
+   "Guli": "09:52am-11:04am"
+ },
+ {
+   "Date": "14/01/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Dwadashi from : 08:49 AM",
+   "Nakshatram": "Rohini from : 06:48 AM",
+   "Yogam": "Ma from : 6:48am;#Si",
+   "Rahu": "11:04am-12:16pm",
+   "Yama": "02:42pm-03:54pm",
+   "Guli": "08:38am-09:50am"
+ },
+ {
+   "Date": "15/01/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Trayodashi from : 11:27 AM",
+   "Nakshatram": "Mirugasirisham from : 09:52 AM",
+   "Yogam": "Si from : 9:52am;#Si",
+   "Rahu": "09:52am-11:05am",
+   "Yama": "01:31pm-02:44pm",
+   "Guli": "07:26am-08:39am"
+ },
+ {
+   "Date": "16/01/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Chaturdashi from : 01:48 PM",
+   "Nakshatram": "Thiruvathiraia from : 12:40 PM",
+   "Yogam": "Si from : 12:40pm;#Si",
+   "Rahu": "03:57pm-05:10pm",
+   "Yama": "12:18pm-01:31pm",
+   "Guli": "02:44pm-03:57pm"
+ },
+ {
+   "Date": "17/01/2022",
+   "Day": "Mon",
+   "Tithi": "Pournami from : 03:48 PM",
+   "Nakshatram": "Punarpoosam from : 03:08 PM",
+   "Yogam": "Am from : 3:08pm;#Si",
+   "Rahu": "08:38am-09:51am",
+   "Yama": "11:05am-12:18pm",
+   "Guli": "01:31pm-02:44pm"
+ },
+ {
+   "Date": "18/01/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Pirathamai from : 05:23 PM",
+   "Nakshatram": "Poosam from : 05:13 PM",
+   "Yogam": "Si from : 5:13pm;#Si",
+   "Rahu": "02:46pm-03:59pm",
+   "Yama": "09:52am-11:05am",
+   "Guli": "12:19pm-01:32pm"
+ },
+ {
+   "Date": "19/01/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Dwitiyai from : 06:35 PM",
+   "Nakshatram": "Ayilyam from : 06:55 PM",
+   "Yogam": "Si from : 6:55pm;#Si",
+   "Rahu": "12:19pm-01:32pm",
+   "Yama": "08:37am-09:50am",
+   "Guli": "11:05am-12:18pm"
+ },
+ {
+   "Date": "20/01/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Thiruthiyai from : 07:22 PM",
+   "Nakshatram": "Magam from : 08:13 PM",
+   "Yogam": "Am from : 8:13pm;#Si",
+   "Rahu": "01:33pm-02:46pm",
+   "Yama": "07:24am-08:37am",
+   "Guli": "09:51am-11:04am"
+ },
+ {
+   "Date": "21/01/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Chaturthi from : 07:44 PM",
+   "Nakshatram": "Pooram from : 09:08 PM",
+   "Yogam": "Si from : 9:08pm;#Si",
+   "Rahu": "11:05am-12:19pm",
+   "Yama": "02:47pm-04:01pm",
+   "Guli": "08:37am-09:51am"
+ },
+ {
+   "Date": "22/01/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Panchami from : 07:42 PM",
+   "Nakshatram": "Uthiram from : 09:40 PM",
+   "Yogam": "Ma from : 9:40pm;#Ma",
+   "Rahu": "09:51am-11:05am",
+   "Yama": "01:34pm-02:48pm",
+   "Guli": "07:23am-08:37am"
+ },
+ {
+   "Date": "23/01/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Sashti from : 07:14 PM",
+   "Nakshatram": "Hastham from : 09:45 PM",
+   "Yogam": "Am from : 9:45pm;#Si",
+   "Rahu": "04:03pm-05:17pm",
+   "Yama": "12:20pm-01:34pm",
+   "Guli": "02:49pm-04:03pm"
+ },
+ {
+   "Date": "24/01/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Sapthami from : 06:18 PM",
+   "Nakshatram": "Chithirai from : 09:25 PM",
+   "Yogam": "Si from : 9:25pm;#Am",
+   "Rahu": "08:35am-09:49am",
+   "Yama": "11:05am-12:19pm",
+   "Guli": "01:34pm-02:48pm"
+ },
+ {
+   "Date": "25/01/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Ashtami from : 04:55 PM",
+   "Nakshatram": "Swathi from : 08:37 PM",
+   "Yogam": "Si from : 8:37pm;#Ma",
+   "Rahu": "02:51pm-04:06pm",
+   "Yama": "09:51am-11:06am",
+   "Guli": "12:21pm-01:36pm"
+ },
+ {
+   "Date": "26/01/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Navami from : 03:04 PM",
+   "Nakshatram": "Visakam from : 07:21 PM",
+   "Yogam": "Si from : 7:21pm;#Si",
+   "Rahu": "12:21pm-01:36pm",
+   "Yama": "08:35am-09:50am",
+   "Guli": "11:05am-12:20pm"
+ },
+ {
+   "Date": "27/01/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Dashami from : 12:46 PM",
+   "Nakshatram": "Anusham from : 05:40 PM",
+   "Yogam": "Si from : 5:40pm;#Si",
+   "Rahu": "01:36pm-02:51pm",
+   "Yama": "07:19am-08:34am",
+   "Guli": "09:50am-11:05am"
+ },
+ {
+   "Date": "28/01/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Ekadashi from : 10:05 AM",
+   "Nakshatram": "Kettai from : 03:38 PM",
+   "Yogam": "Ma from : 3:38pm;#Am",
+   "Rahu": "11:05am-12:20pm",
+   "Yama": "02:52pm-04:07pm",
+   "Guli": "08:34am-09:49am"
+ },
+ {
+   "Date": "29/01/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Dwadashi from : 07:07 AM",
+   "Nakshatram": "Moolam from : 01:19 PM",
+   "Yogam": "Si from : 1:19pm;#Si",
+   "Rahu": "09:49am-11:04am",
+   "Yama": "01:37pm-02:52pm",
+   "Guli": "07:18am-08:33am"
+ },
+ {
+   "Date": "30/01/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Trayodashi from : 03:58 AM",
+   "Nakshatram": "Pooradam from : 10:53 AM",
+   "Yogam": "Si from : 10:53am;#Am",
+   "Rahu": "04:09pm-05:25pm",
+   "Yama": "12:21pm-01:37pm",
+   "Guli": "02:53pm-04:09pm"
+ },
+ {
+   "Date": "31/01/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Chaturdashi from : 12:48 AM Krishnapaksha - Amaavaasai from : 09:45 PM",
+   "Nakshatram": "Uthiradam from : 08:28 AM",
+   "Yogam": "Ma from : 8:28am;#Am",
+   "Rahu": "08:32am-09:48am",
+   "Yama": "11:05am-12:21pm",
+   "Guli": "01:37pm-02:53pm"
+ },
+ {
+   "Date": "01/02/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Pirathamai from : 07:01 PM",
+   "Nakshatram": "Thiruvonam from : 06:14 AM",
+   "Yogam": "Si from : 6:14am;#Si",
+   "Rahu": "02:54pm-04:10pm",
+   "Yama": "09:48am-11:04am",
+   "Guli": "12:21pm-01:37pm"
+ },
+ {
+   "Date": "02/02/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Dwitiyai from : 04:45 PM",
+   "Nakshatram": "Avittam from : 04:23 AM",
+   "Yogam": "Ma from : 4:23am;#Si",
+   "Rahu": "12:22pm-01:39pm",
+   "Yama": "08:31am-09:48am",
+   "Guli": "11:05am-12:22pm"
+ },
+ {
+   "Date": "03/02/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Thiruthiyai from : 03:08 PM",
+   "Nakshatram": "Sathayam from : 03:05 AM",
+   "Yogam": "Ma from : 3:05am;#Si",
+   "Rahu": "01:39pm-02:56pm",
+   "Yama": "07:14am-08:31am",
+   "Guli": "09:48am-11:05am"
+ },
+ {
+   "Date": "04/02/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Chaturthi from : 02:17 PM",
+   "Nakshatram": "Poorattathi from : 02:28 AM",
+   "Yogam": "Si from : 2:28am;#Si",
+   "Rahu": "11:05am-12:22pm",
+   "Yama": "02:57pm-04:14pm",
+   "Guli": "08:30am-09:47am"
+ },
+ {
+   "Date": "05/02/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Panchami from : 02:16 PM",
+   "Nakshatram": "Uthirattathi from : 02:39 AM",
+   "Yogam": "Si from : 2:39am;#Ma",
+   "Rahu": "09:47am-11:04am",
+   "Yama": "01:40pm-02:57pm",
+   "Guli": "07:12am-08:29am"
+ },
+ {
+   "Date": "06/02/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Sashti from : 03:08 PM",
+   "Nakshatram": "Revathi from : 03:40 AM",
+   "Yogam": "Am from : 3:40am;#Si",
+   "Rahu": "04:16pm-05:33pm",
+   "Yama": "12:22pm-01:39pm",
+   "Guli": "02:58pm-04:15pm"
+ },
+ {
+   "Date": "07/02/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Sapthami from : 04:46 PM",
+   "Nakshatram": "Aswini from : 05:29 AM",
+   "Yogam": "Si from : 5:29am;#Si",
+   "Rahu": "08:28am-09:46am",
+   "Yama": "11:04am-12:22pm",
+   "Guli": "01:40pm-02:58pm"
+ },
+ {
+   "Date": "08/02/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Ashtami from : 07:01 PM",
+   "Nakshatram": "Bharani from : 07:58 AM",
+   "Yogam": "Si from : 7:58am;#Si",
+   "Rahu": "02:59pm-04:17pm",
+   "Yama": "09:45am-11:03am",
+   "Guli": "12:22pm-01:40pm"
+ },
+ {
+   "Date": "09/02/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Navami from : 09:38 PM",
+   "Nakshatram": "Karthigai from : 10:54 AM",
+   "Yogam": "Am from : 10:54am;#Si",
+   "Rahu": "12:23pm-01:41pm",
+   "Yama": "08:26am-09:44am",
+   "Guli": "11:04am-12:22pm"
+ },
+ {
+   "Date": "10/02/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Dashami from : 0:22am+",
+   "Nakshatram": "Rohini from : 02:02 PM",
+   "Yogam": "Ma from : 2:02pm;#Ma",
+   "Rahu": "01:41pm-03:00pm",
+   "Yama": "07:06am-08:25am",
+   "Guli": "09:44am-11:03am"
+ },
+ {
+   "Date": "11/02/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Dashami from : 12:22 AM",
+   "Nakshatram": "Mirugasirisham from : 05:08 PM",
+   "Yogam": "Si from : 5:08pm;#Si",
+   "Rahu": "11:03am-12:22pm",
+   "Yama": "03:01pm-04:20pm",
+   "Guli": "08:24am-09:43am"
+ },
+ {
+   "Date": "12/02/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Ekadashi from : 02:57 AM",
+   "Nakshatram": "Thiruvathiraia from : 07:58 PM",
+   "Yogam": "Si from : 7:58pm;#Si",
+   "Rahu": "09:43am-11:02am",
+   "Yama": "01:42pm-03:01pm",
+   "Guli": "07:04am-08:23am"
+ },
+ {
+   "Date": "13/02/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Dwadashi from : 05:12 AM",
+   "Nakshatram": "Punarpoosam from : 10:23 PM",
+   "Yogam": "Si from : 10:23pm;#Si",
+   "Rahu": "04:22pm-05:41pm",
+   "Yama": "12:22pm-01:41pm",
+   "Guli": "03:02pm-04:21pm"
+ },
+ {
+   "Date": "14/02/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Trayodashi from : 06:58 AM",
+   "Nakshatram": "Poosam from : 0:19am+",
+   "Yogam": "Si",
+   "Rahu": "08:22am-09:42am",
+   "Yama": "11:02am-12:22pm",
+   "Guli": "01:42pm-03:02pm"
+ },
+ {
+   "Date": "15/02/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Chaturdashi from : 08:13 AM",
+   "Nakshatram": "Poosam from : 12:19 AM",
+   "Yogam": "Si from : 0:19am;#Si",
+   "Rahu": "03:03pm-04:23pm",
+   "Yama": "09:41am-11:01am",
+   "Guli": "12:22pm-01:42pm"
+ },
+ {
+   "Date": "16/02/2022",
+   "Day": "Wed",
+   "Tithi": "Pournami from : 08:56 AM",
+   "Nakshatram": "Ayilyam from : 01:44 AM",
+   "Yogam": "Si from : 1:44am;#Si",
+   "Rahu": "12:22pm-01:42pm",
+   "Yama": "08:20am-09:40am",
+   "Guli": "11:01am-12:21pm"
+ },
+ {
+   "Date": "17/02/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Pirathamai from : 09:10 AM",
+   "Nakshatram": "Magam from : 02:41 AM",
+   "Yogam": "Am from : 2:41am;#Si",
+   "Rahu": "01:43pm-03:04pm",
+   "Yama": "06:58am-08:19am",
+   "Guli": "09:40am-11:01am"
+ },
+ {
+   "Date": "18/02/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Dwitiyai from : 08:59 AM",
+   "Nakshatram": "Pooram from : 03:12 AM",
+   "Yogam": "Si from : 3:12am;#Si",
+   "Rahu": "11:00am-12:21pm",
+   "Yama": "03:04pm-04:25pm",
+   "Guli": "08:18am-09:39am"
+ },
+ {
+   "Date": "19/02/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Thiruthiyai from : 08:26 AM",
+   "Nakshatram": "Uthiram from : 03:22 AM",
+   "Yogam": "Ma from : 3:22am;#Ma",
+   "Rahu": "09:39am-11:00am",
+   "Yama": "01:43pm-03:04pm",
+   "Guli": "06:56am-08:17am"
+ },
+ {
+   "Date": "20/02/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Chaturthi from : 07:35 AM",
+   "Nakshatram": "Hastham from : 03:13 AM",
+   "Yogam": "Am from : 3:13am;#Si",
+   "Rahu": "04:28pm-05:50pm",
+   "Yama": "12:22pm-01:44pm",
+   "Guli": "03:06pm-04:28pm"
+ },
+ {
+   "Date": "21/02/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Panchami from : 06:27 AM",
+   "Nakshatram": "Chithirai from : 02:47 AM",
+   "Yogam": "Si from : 2:47am;#Am",
+   "Rahu": "08:15am-09:37am",
+   "Yama": "10:59am-12:21pm",
+   "Guli": "01:44pm-03:06pm"
+ },
+ {
+   "Date": "22/02/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Sashti from : 05:04 AM",
+   "Nakshatram": "Swathi from : 02:06 AM",
+   "Yogam": "Si from : 2:06am;#Ma",
+   "Rahu": "03:07pm-04:29pm",
+   "Yama": "09:37am-10:59am",
+   "Guli": "12:22pm-01:44pm"
+ },
+ {
+   "Date": "23/02/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Sapthami from : 03:26 AM",
+   "Nakshatram": "Visakam from : 01:11 AM",
+   "Yogam": "Si from : 1:11am;#Si",
+   "Rahu": "12:22pm-01:44pm",
+   "Yama": "08:13am-09:35am",
+   "Guli": "10:59am-12:21pm"
+ },
+ {
+   "Date": "24/02/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Ashtami from : 01:34 AM Krishnapaksha - Navami from : 11:27 PM",
+   "Nakshatram": "Anusham from : 12:01 AM Kettai from : 10:38 PM",
+   "Yogam": "Si from : 0:01am;#Si Si from : 10:38pm;#Si",
+   "Rahu": "01:44pm-03:07pm",
+   "Yama": "06:49am-08:12am",
+   "Guli": "09:35am-10:58am"
+ },
+ {
+   "Date": "25/02/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Dashami from : 09:09 PM",
+   "Nakshatram": "Moolam from : 09:02 PM",
+   "Yogam": "Am from : 9:02pm;#Si",
+   "Rahu": "10:58am-12:21pm",
+   "Yama": "03:08pm-04:31pm",
+   "Guli": "08:11am-09:34am"
+ },
+ {
+   "Date": "26/02/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Ekadashi from : 06:42 PM",
+   "Nakshatram": "Pooradam from : 07:19 PM",
+   "Yogam": "Si from : 7:19pm;#Si",
+   "Rahu": "09:34am-10:57am",
+   "Yama": "01:45pm-03:08pm",
+   "Guli": "06:47am-08:10am"
+ },
+ {
+   "Date": "27/02/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Dwadashi from : 04:12 PM",
+   "Nakshatram": "Uthiradam from : 05:32 PM",
+   "Yogam": "Am from : 5:32pm;#Am",
+   "Rahu": "04:33pm-05:57pm",
+   "Yama": "12:21pm-01:45pm",
+   "Guli": "03:09pm-04:33pm"
+ },
+ {
+   "Date": "28/02/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Trayodashi from : 01:46 PM",
+   "Nakshatram": "Thiruvonam from : 03:49 PM",
+   "Yogam": "Am from : 3:49pm;#Si",
+   "Rahu": "08:08am-09:32am",
+   "Yama": "10:56am-12:20pm",
+   "Guli": "01:45pm-03:09pm"
+ },
+ {
+   "Date": "01/03/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Chaturdashi from : 11:30 AM",
+   "Nakshatram": "Avittam from : 02:18 PM",
+   "Yogam": "Si from : 2:18pm;#Ma",
+   "Rahu": "03:09pm-04:33pm",
+   "Yama": "09:31am-10:55am",
+   "Guli": "12:20pm-01:44pm"
+ },
+ {
+   "Date": "02/03/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Amaavaasai from : 09:34 AM",
+   "Nakshatram": "Sathayam from : 01:08 PM",
+   "Yogam": "Si from : 1:08pm;#Am",
+   "Rahu": "12:20pm-01:44pm",
+   "Yama": "08:05am-09:29am",
+   "Guli": "10:55am-12:19pm"
+ },
+ {
+   "Date": "03/03/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Pirathamai from : 08:06 AM",
+   "Nakshatram": "Poorattathi from : 12:26 PM",
+   "Yogam": "Si from : 12:26pm;#Si",
+   "Rahu": "01:45pm-03:10pm",
+   "Yama": "06:39am-08:04am",
+   "Guli": "09:29am-10:54am"
+ },
+ {
+   "Date": "04/03/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Dwitiyai from : 07:15 AM",
+   "Nakshatram": "Uthirattathi from : 12:22 PM",
+   "Yogam": "Si from : 12:22pm;#Am",
+   "Rahu": "10:54am-12:19pm",
+   "Yama": "03:11pm-04:36pm",
+   "Guli": "08:03am-09:28am"
+ },
+ {
+   "Date": "05/03/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Thiruthiyai from : 07:06 AM",
+   "Nakshatram": "Revathi from : 01:00 PM",
+   "Yogam": "Ma from : 1:00pm;#Si",
+   "Rahu": "09:28am-10:53am",
+   "Yama": "01:45pm-03:10pm",
+   "Guli": "06:37am-08:02am"
+ },
+ {
+   "Date": "06/03/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Chaturthi from : 07:42 AM",
+   "Nakshatram": "Aswini from : 02:21 PM",
+   "Yogam": "Si from : 2:21pm;#Si",
+   "Rahu": "04:37pm-06:03pm",
+   "Yama": "12:19pm-01:45pm",
+   "Guli": "03:11pm-04:37pm"
+ },
+ {
+   "Date": "07/03/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Panchami from : 09:02 AM",
+   "Nakshatram": "Bharani from : 04:25 PM",
+   "Yogam": "Si from : 4:25pm;#Ma",
+   "Rahu": "08:00am-09:26am",
+   "Yama": "10:53am-12:19pm",
+   "Guli": "01:45pm-03:11pm"
+ },
+ {
+   "Date": "08/03/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Sashti from : 11:01 AM",
+   "Nakshatram": "Karthigai from : 07:02 PM",
+   "Yogam": "Si from : 7:02pm;#Am",
+   "Rahu": "03:12pm-04:38pm",
+   "Yama": "09:25am-10:51am",
+   "Guli": "12:19pm-01:45pm"
+ },
+ {
+   "Date": "09/03/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Sapthami from : 01:26 PM",
+   "Nakshatram": "Rohini from : 10:01 PM",
+   "Yogam": "Si from : 10:01pm;#Si",
+   "Rahu": "12:19pm-01:46pm",
+   "Yama": "07:58am-09:25am",
+   "Guli": "10:52am-12:19pm"
+ },
+ {
+   "Date": "10/03/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Ashtami from : 04:04 PM",
+   "Nakshatram": "Mirugasirisham from : 1:06am+",
+   "Yogam": "Si",
+   "Rahu": "01:45pm-03:12pm",
+   "Yama": "06:29am-07:56am",
+   "Guli": "09:23am-10:50am"
+ },
+ {
+   "Date": "11/03/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Navami from : 06:37 PM",
+   "Nakshatram": "Mirugasirisham from : 01:06 AM",
+   "Yogam": "Si from : 1:06am;#Si",
+   "Rahu": "10:50am-12:17pm",
+   "Yama": "03:13pm-04:40pm",
+   "Guli": "07:55am-09:22am"
+ },
+ {
+   "Date": "12/03/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Dashami from : 08:52 PM",
+   "Nakshatram": "Thiruvathiraia from : 04:02 AM",
+   "Yogam": "Si from : 4:02am;#Si",
+   "Rahu": "09:22am-10:50am",
+   "Yama": "01:46pm-03:14pm",
+   "Guli": "06:26am-07:54am"
+ },
+ {
+   "Date": "13/03/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Ekadashi from : 11:35 PM",
+   "Nakshatram": "Punarpoosam from : 07:36 AM",
+   "Yogam": "Si from : 7:36am;#Si",
+   "Rahu": "05:42pm-07:10pm",
+   "Yama": "01:18pm-02:46pm",
+   "Guli": "04:14pm-05:42pm"
+ },
+ {
+   "Date": "14/03/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Dwadashi from : 0:42am+",
+   "Nakshatram": "Poosam from : 09:38 AM",
+   "Yogam": "Si from : 9:38am;#Si",
+   "Rahu": "08:51am-10:19am",
+   "Yama": "11:48am-01:16pm",
+   "Guli": "02:46pm-04:14pm"
+ },
+ {
+   "Date": "15/03/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Dwadashi from : 12:42 AM",
+   "Nakshatram": "Ayilyam from : 11:03 AM",
+   "Yogam": "Si from : 11:03am;#Si",
+   "Rahu": "04:15pm-05:43pm",
+   "Yama": "10:19am-11:47am",
+   "Guli": "01:17pm-02:45pm"
+ },
+ {
+   "Date": "16/03/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Trayodashi from : 01:09 AM",
+   "Nakshatram": "Magam from : 11:51 AM",
+   "Yogam": "Si from : 11:51am;#Am",
+   "Rahu": "01:17pm-02:46pm",
+   "Yama": "08:49am-10:18am",
+   "Guli": "11:47am-01:16pm"
+ },
+ {
+   "Date": "17/03/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Chaturdashi from : 01:00 AM",
+   "Nakshatram": "Pooram from : 12:04 PM",
+   "Yogam": "Si from : 12:04pm;#Ma",
+   "Rahu": "02:46pm-04:15pm",
+   "Yama": "07:19am-08:48am",
+   "Guli": "10:18am-11:47am"
+ },
+ {
+   "Date": "18/03/2022",
+   "Day": "Fri",
+   "Tithi": "Pournami from : 12:17 AM Krishnapaksha - Pirathamai from : 11:07 PM",
+   "Nakshatram": "Uthiram from : 11:48 AM",
+   "Yogam": "Si from : 11:48am;#Am",
+   "Rahu": "11:46am-01:15pm",
+   "Yama": "04:16pm-05:45pm",
+   "Guli": "08:46am-10:15am"
+ },
+ {
+   "Date": "19/03/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Dwitiyai from : 09:36 PM",
+   "Nakshatram": "Hastham from : 11:08 AM",
+   "Yogam": "Ma from : 11:08am;#Ma",
+   "Rahu": "10:16am-11:46am",
+   "Yama": "02:46pm-04:16pm",
+   "Guli": "07:16am-08:46am"
+ },
+ {
+   "Date": "20/03/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Thiruthiyai from : 07:50 PM",
+   "Nakshatram": "Chithirai from : 10:11 AM",
+   "Yogam": "Si from : 10:11am;#Si",
+   "Rahu": "05:46pm-07:16pm",
+   "Yama": "01:15pm-02:45pm",
+   "Guli": "04:16pm-05:46pm"
+ },
+ {
+   "Date": "21/03/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Chaturthi from : 05:54 PM",
+   "Nakshatram": "Swathi from : 09:01 AM",
+   "Yogam": "Am from : 9:01am;#Ma",
+   "Rahu": "08:43am-10:13am",
+   "Yama": "11:44am-01:14pm",
+   "Guli": "02:46pm-04:16pm"
+ },
+ {
+   "Date": "22/03/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Panchami from : 03:51 PM",
+   "Nakshatram": "Visakam from : 07:44 AM",
+   "Yogam": "Ma from : 7:44am;#Si",
+   "Rahu": "04:17pm-05:48pm",
+   "Yama": "10:13am-11:44am",
+   "Guli": "01:15pm-02:46pm"
+ },
+ {
+   "Date": "23/03/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Sashti from : 01:46 PM",
+   "Nakshatram": "Anusham from : 06:23 AM",
+   "Yogam": "Si from : 6:23am;#Si",
+   "Rahu": "01:15pm-02:46pm",
+   "Yama": "08:41am-10:12am",
+   "Guli": "11:43am-01:14pm"
+ },
+ {
+   "Date": "24/03/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Sapthami from : 11:39 AM",
+   "Nakshatram": "Kettai from : 05:00 AM",
+   "Yogam": "Si from : 5:00am;#Si",
+   "Rahu": "02:46pm-04:17pm",
+   "Yama": "07:08am-08:39am",
+   "Guli": "10:11am-11:42am"
+ },
+ {
+   "Date": "25/03/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Ashtami from : 09:34 AM",
+   "Nakshatram": "Moolam from : 03:38 AM",
+   "Yogam": "Am from : 3:38am;#Si",
+   "Rahu": "11:42am-01:14pm",
+   "Yama": "04:18pm-05:50pm",
+   "Guli": "08:38am-10:10am"
+ },
+ {
+   "Date": "26/03/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Navami from : 07:31 AM",
+   "Nakshatram": "Pooradam from : 02:18 AM",
+   "Yogam": "Si from : 2:18am;#Si",
+   "Rahu": "10:09am-11:41am",
+   "Yama": "02:46pm-04:18pm",
+   "Guli": "07:05am-08:37am"
+ },
+ {
+   "Date": "27/03/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Dashami from : 05:34 AM",
+   "Nakshatram": "Uthiradam from : 01:02 AM Thiruvonam from : 11:55 PM",
+   "Yogam": "Am from : 1:02am;#Am Am 11:55pm; Ma",
+   "Rahu": "05:51pm-07:23pm",
+   "Yama": "01:13pm-02:45pm",
+   "Guli": "04:18pm-05:50pm"
+ },
+ {
+   "Date": "28/03/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Ekadashi from : 03:45 AM",
+   "Nakshatram": "Avittam from : 10:59 PM",
+   "Yogam": "Si from : 10:59pm;#Si",
+   "Rahu": "08:34am-10:06am",
+   "Yama": "11:40am-01:12pm",
+   "Guli": "02:46pm-04:18pm"
+ },
+ {
+   "Date": "29/03/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Dwadashi from : 02:08 AM",
+   "Nakshatram": "Sathayam from : 10:19 PM",
+   "Yogam": "Ma from : 10:19pm;#Ma",
+   "Rahu": "04:19pm-05:52pm",
+   "Yama": "10:06am-11:39am",
+   "Guli": "01:13pm-02:46pm"
+ },
+ {
+   "Date": "30/03/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Trayodashi from : 12:49 AM Krishnapaksha - Chaturdashi from : 11:52 PM",
+   "Nakshatram": "Poorattathi from : 10:01 PM",
+   "Yogam": "Am from : 10:01pm;#Si",
+   "Rahu": "01:13pm-02:46pm",
+   "Yama": "08:32am-10:05am",
+   "Guli": "11:39am-01:12pm"
+ },
+ {
+   "Date": "31/03/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Amaavaasai from : 11:24 PM",
+   "Nakshatram": "Uthirattathi from : 10:10 PM",
+   "Yogam": "Si from : 10:10pm;#Si",
+   "Rahu": "02:46pm-04:19pm",
+   "Yama": "06:57am-08:30am",
+   "Guli": "10:04am-11:37am"
+ },
+ {
+   "Date": "01/04/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Pirathamai from : 11:28 PM",
+   "Nakshatram": "Revathi from : 10:52 PM",
+   "Yogam": "Am from : 10:52pm;#Am",
+   "Rahu": "11:38am-01:12pm",
+   "Yama": "04:20pm-05:54pm",
+   "Guli": "08:30am-10:04am"
+ },
+ {
+   "Date": "02/04/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Dwitiyai from : 0:08am+",
+   "Nakshatram": "Aswini from : 0:08am+",
+   "Yogam": "Si",
+   "Rahu": "10:02am-11:36am",
+   "Yama": "02:45pm-04:19pm",
+   "Guli": "06:54am-08:28am"
+ },
+ {
+   "Date": "03/04/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Dwitiyai from : 12:08 AM",
+   "Nakshatram": "Aswini from : 12:08 AM",
+   "Yogam": "Si from : 0:08am;#Si",
+   "Rahu": "05:55pm-07:29pm",
+   "Yama": "01:11pm-02:45pm",
+   "Guli": "04:20pm-05:54pm"
+ },
+ {
+   "Date": "04/04/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Thiruthiyai from : 01:25 AM",
+   "Nakshatram": "Bharani from : 01:59 AM",
+   "Yogam": "Si from : 1:59am;#Ma",
+   "Rahu": "08:26am-10:01am",
+   "Yama": "11:36am-01:11pm",
+   "Guli": "02:46pm-04:21pm"
+ },
+ {
+   "Date": "05/04/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Chaturthi from : 03:15 AM",
+   "Nakshatram": "Karthigai from : 04:22 AM",
+   "Yogam": "Si from : 4:22am;#Am",
+   "Rahu": "04:21pm-05:56pm",
+   "Yama": "10:00am-11:35am",
+   "Guli": "01:11pm-02:46pm"
+ },
+ {
+   "Date": "06/04/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Panchami from : 05:31 AM",
+   "Nakshatram": "Rohini from : 07:10 AM",
+   "Yogam": "Si from : 7:10am;#Si",
+   "Rahu": "01:10pm-02:45pm",
+   "Yama": "08:23am-09:58am",
+   "Guli": "11:34am-01:09pm"
+ },
+ {
+   "Date": "07/04/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Sashti from : 08:02 AM",
+   "Nakshatram": "Mirugasirisham from : 10:12 AM",
+   "Yogam": "Ma from : 10:12am;#Ma",
+   "Rahu": "02:46pm-04:21pm",
+   "Yama": "06:47am-08:22am",
+   "Guli": "09:58am-11:33am"
+ },
+ {
+   "Date": "08/04/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Sapthami from : 10:35 AM",
+   "Nakshatram": "Thiruvathiraia from : 01:14 PM",
+   "Yogam": "Si from : 1:14pm;#Si",
+   "Rahu": "11:33am-01:09pm",
+   "Yama": "04:22pm-05:58pm",
+   "Guli": "08:21am-09:57am"
+ },
+ {
+   "Date": "09/04/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Ashtami from : 12:54 PM",
+   "Nakshatram": "Punarpoosam from : 04:01 PM",
+   "Yogam": "Si from : 4:01pm;#Si",
+   "Rahu": "09:57am-11:33am",
+   "Yama": "02:46pm-04:22pm",
+   "Guli": "06:44am-08:20am"
+ },
+ {
+   "Date": "10/04/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Navami from : 02:45 PM",
+   "Nakshatram": "Poosam from : 06:22 PM",
+   "Yogam": "Si from : 6:22pm;#Si",
+   "Rahu": "06:00pm-07:36pm",
+   "Yama": "01:09pm-02:45pm",
+   "Guli": "04:23pm-05:59pm"
+ },
+ {
+   "Date": "11/04/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Dashami from : 04:00 PM",
+   "Nakshatram": "Ayilyam from : 08:05 PM",
+   "Yogam": "Si from : 8:05pm;#Ma",
+   "Rahu": "08:18am-09:55am",
+   "Yama": "11:32am-01:09pm",
+   "Guli": "02:46pm-04:23pm"
+ },
+ {
+   "Date": "12/04/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Ekadashi from : 04:32 PM",
+   "Nakshatram": "Magam from : 09:07 PM",
+   "Yogam": "Si from : 9:07pm;#Si",
+   "Rahu": "04:24pm-06:01pm",
+   "Yama": "09:54am-11:31am",
+   "Guli": "01:09pm-02:46pm"
+ },
+ {
+   "Date": "13/04/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Dwadashi from : 04:20 PM",
+   "Nakshatram": "Pooram from : 09:26 PM",
+   "Yogam": "Am from : 9:26pm;#Am",
+   "Rahu": "08:03pm-07:57pm",
+   "Yama": "08:20pm-08:14pm",
+   "Guli": "08:08pm-08:02pm"
+ },
+ {
+   "Date": "14/04/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Trayodashi from : 03:26 PM",
+   "Nakshatram": "Uthiram from : 09:05 PM",
+   "Yogam": "Ma from : 9:05pm;#Si",
+   "Rahu": "02:47pm-04:25pm",
+   "Yama": "06:37am-08:15am",
+   "Guli": "09:53am-11:31am"
+ },
+ {
+   "Date": "15/04/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Chaturdashi from : 01:55 PM",
+   "Nakshatram": "Hastham from : 08:10 PM",
+   "Yogam": "Am from : 8:10pm;#Si",
+   "Rahu": "11:29am-01:07pm",
+   "Yama": "04:24pm-06:02pm",
+   "Guli": "08:13am-09:51am"
+ },
+ {
+   "Date": "16/04/2022",
+   "Day": "Sat",
+   "Tithi": "Pournami from : 11:54 AM",
+   "Nakshatram": "Chithirai from : 06:47 PM",
+   "Yogam": "Ma from : 6:47pm;#Am",
+   "Rahu": "09:51am-11:29am",
+   "Yama": "02:46pm-04:24pm",
+   "Guli": "06:34am-08:12am"
+ },
+ {
+   "Date": "17/04/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Pirathamai from : 09:31 AM",
+   "Nakshatram": "Swathi from : 05:04 PM",
+   "Yogam": "Si from : 5:04pm;#Ma",
+   "Rahu": "06:04pm-07:42pm",
+   "Yama": "01:08pm-02:46pm",
+   "Guli": "04:25pm-06:03pm"
+ },
+ {
+   "Date": "18/04/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Dwitiyai from : 06:53 AM",
+   "Nakshatram": "Visakam from : 03:09 PM",
+   "Yogam": "Ma from : 3:09pm;#Si",
+   "Rahu": "08:10am-09:49am",
+   "Yama": "11:28am-01:07pm",
+   "Guli": "02:46pm-04:25pm"
+ },
+ {
+   "Date": "19/04/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Thiruthiyai from : 04:08 AM",
+   "Nakshatram": "Anusham from : 01:09 PM",
+   "Yogam": "Si from : 1:09pm;#Si",
+   "Rahu": "04:26pm-06:05pm",
+   "Yama": "09:48am-11:27am",
+   "Guli": "01:07pm-02:46pm"
+ },
+ {
+   "Date": "20/04/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Chaturthi from : 01:23 AM Krishnapaksha - Panchami from : 10:42 PM",
+   "Nakshatram": "Kettai from : 11:12 AM",
+   "Yogam": "Si from : 11:12am;#Ma",
+   "Rahu": "01:07pm-02:46pm",
+   "Yama": "08:08am-09:47am",
+   "Guli": "11:27am-01:06pm"
+ },
+ {
+   "Date": "21/04/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Sashti from : 08:12 PM",
+   "Nakshatram": "Moolam from : 09:22 AM",
+   "Yogam": "Si from : 9:22am;#Si",
+   "Rahu": "02:47pm-04:27pm",
+   "Yama": "06:27am-08:07am",
+   "Guli": "09:47am-11:27am"
+ },
+ {
+   "Date": "22/04/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Sapthami from : 05:57 PM",
+   "Nakshatram": "Pooradam from : 07:45 AM",
+   "Yogam": "Si from : 7:45am;#Si",
+   "Rahu": "11:26am-01:06pm",
+   "Yama": "04:27pm-06:07pm",
+   "Guli": "08:06am-09:46am"
+ },
+ {
+   "Date": "23/04/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Ashtami from : 03:59 PM",
+   "Nakshatram": "Uthiradam from : 06:24 AM",
+   "Yogam": "Si from : 6:24am;#Si",
+   "Rahu": "09:46am-11:26am",
+   "Yama": "02:47pm-04:27pm",
+   "Guli": "06:25am-08:05am"
+ },
+ {
+   "Date": "24/04/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Navami from : 02:22 PM",
+   "Nakshatram": "Thiruvonam from : 05:23 AM",
+   "Yogam": "Am from : 5:23am;#Ma",
+   "Rahu": "06:09pm-07:49pm",
+   "Yama": "01:06pm-02:46pm",
+   "Guli": "04:28pm-06:08pm"
+ },
+ {
+   "Date": "25/04/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Dashami from : 01:08 PM",
+   "Nakshatram": "Avittam from : 04:43 AM",
+   "Yogam": "Si from : 4:43am;#Si",
+   "Rahu": "08:03am-09:44am",
+   "Yama": "11:25am-01:06pm",
+   "Guli": "02:47pm-04:28pm"
+ },
+ {
+   "Date": "26/04/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Ekadashi from : 12:18 PM",
+   "Nakshatram": "Sathayam from : 04:27 AM",
+   "Yogam": "Ma from : 4:27am;#Ma",
+   "Rahu": "04:29pm-06:10pm",
+   "Yama": "09:43am-11:24am",
+   "Guli": "01:06pm-02:47pm"
+ },
+ {
+   "Date": "27/04/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Dwadashi from : 11:53 AM",
+   "Nakshatram": "Poorattathi from : 04:36 AM",
+   "Yogam": "Am from : 4:36am;#Si",
+   "Rahu": "01:06pm-02:47pm",
+   "Yama": "08:01am-09:42am",
+   "Guli": "11:24am-01:05pm"
+ },
+ {
+   "Date": "28/04/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Trayodashi from : 11:56 AM",
+   "Nakshatram": "Uthirattathi from : 05:11 AM",
+   "Yogam": "Si from : 5:11am;#Si",
+   "Rahu": "02:47pm-04:28pm",
+   "Yama": "06:18am-07:59am",
+   "Guli": "09:41am-11:22am"
+ },
+ {
+   "Date": "29/04/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Chaturdashi from : 12:28 PM",
+   "Nakshatram": "Revathi from : 06:13 AM",
+   "Yogam": "Am from : 6:13am;#Am",
+   "Rahu": "11:23am-01:05pm",
+   "Yama": "04:29pm-06:11pm",
+   "Guli": "07:59am-09:41am"
+ },
+ {
+   "Date": "30/04/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Amaavaasai from : 01:27 PM",
+   "Nakshatram": "Aswini from : 07:43 AM",
+   "Yogam": "Si from : 7:43am;#Si",
+   "Rahu": "09:40am-11:22am",
+   "Yama": "02:47pm-04:29pm",
+   "Guli": "06:16am-07:58am"
+ },
+ {
+   "Date": "01/05/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Pirathamai from : 02:55 PM",
+   "Nakshatram": "Bharani from : 09:41 AM",
+   "Yogam": "Si from : 9:41am;#Si",
+   "Rahu": "06:13pm-07:55pm",
+   "Yama": "01:05pm-02:47pm",
+   "Guli": "04:30pm-06:12pm"
+ },
+ {
+   "Date": "02/05/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Dwitiyai from : 04:48 PM",
+   "Nakshatram": "Karthigai from : 12:04 PM",
+   "Yogam": "Ma from : 12:04pm;#Am",
+   "Rahu": "07:56am-09:38am",
+   "Yama": "11:22am-01:04pm",
+   "Guli": "02:48pm-04:30pm"
+ },
+ {
+   "Date": "03/05/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Thiruthiyai from : 07:03 PM",
+   "Nakshatram": "Rohini from : 02:48 PM",
+   "Yogam": "Am from : 2:48pm;#Si",
+   "Rahu": "04:31pm-06:14pm",
+   "Yama": "09:39am-11:22am",
+   "Guli": "01:05pm-02:48pm"
+ },
+ {
+   "Date": "04/05/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Chaturthi from : 09:31 PM",
+   "Nakshatram": "Mirugasirisham from : 05:47 PM",
+   "Yogam": "Si from : 5:47pm;#Si",
+   "Rahu": "01:05pm-02:48pm",
+   "Yama": "07:54am-09:37am",
+   "Guli": "11:21am-01:04pm"
+ },
+ {
+   "Date": "05/05/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Panchami from : 0:02am+",
+   "Nakshatram": "Thiruvathiraia from : 08:51 PM",
+   "Yogam": "Ma from : 8:51pm;#Am",
+   "Rahu": "02:48pm-04:31pm",
+   "Yama": "06:10am-07:53am",
+   "Guli": "09:37am-11:20am"
+ },
+ {
+   "Date": "06/05/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Panchami from : 12:02 AM",
+   "Nakshatram": "Punarpoosam from : 11:48 PM",
+   "Yogam": "Si from : 11:48pm;#Ma",
+   "Rahu": "11:21am-01:05pm",
+   "Yama": "04:33pm-06:17pm",
+   "Guli": "07:53am-09:37am"
+ },
+ {
+   "Date": "07/05/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Sashti from : 02:26 AM",
+   "Nakshatram": "Poosam from : 2:28am+",
+   "Yogam": "Si",
+   "Rahu": "09:36am-11:20am",
+   "Yama": "02:49pm-04:33pm",
+   "Guli": "06:08am-07:52am"
+ },
+ {
+   "Date": "08/05/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Sapthami from : 04:30 AM",
+   "Nakshatram": "Poosam from : 02:28 AM",
+   "Yogam": "Si from : 2:28am;#Si",
+   "Rahu": "06:18pm-08:02pm",
+   "Yama": "01:05pm-02:49pm",
+   "Guli": "04:34pm-06:18pm"
+ },
+ {
+   "Date": "09/05/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Ashtami from : 06:02 AM",
+   "Nakshatram": "Ayilyam from : 04:38 AM",
+   "Yogam": "Si from : 4:38am;#Ma",
+   "Rahu": "07:50am-09:34am",
+   "Yama": "11:19am-01:03pm",
+   "Guli": "02:49pm-04:33pm"
+ },
+ {
+   "Date": "10/05/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Navami from : 06:54 AM",
+   "Nakshatram": "Magam from : 06:10 AM",
+   "Yogam": "Si from : 6:10am;#Si",
+   "Rahu": "04:34pm-06:18pm",
+   "Yama": "09:34am-11:18am",
+   "Guli": "01:04pm-02:48pm"
+ },
+ {
+   "Date": "11/05/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Dashami from : 07:01 AM",
+   "Nakshatram": "Pooram from : 06:58 AM",
+   "Yogam": "Am from : 6:58am;#Am",
+   "Rahu": "01:04pm-02:49pm",
+   "Yama": "07:49am-09:34am",
+   "Guli": "11:19am-01:04pm"
+ },
+ {
+   "Date": "12/05/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Ekadashi from : 06:21 AM",
+   "Nakshatram": "Uthiram from : 07:00 AM",
+   "Yogam": "Ma from : 7:00am;#Si",
+   "Rahu": "02:49pm-04:34pm",
+   "Yama": "06:03am-07:48am",
+   "Guli": "09:33am-11:18am"
+ },
+ {
+   "Date": "13/05/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Dwadashi from : 04:57 AM",
+   "Nakshatram": "Hastham from : 06:19 AM",
+   "Yogam": "Am from : 6:19am;#Si",
+   "Rahu": "11:19am-01:04pm",
+   "Yama": "04:36pm-06:21pm",
+   "Guli": "07:48am-09:33am"
+ },
+ {
+   "Date": "14/05/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Trayodashi from : 02:53 AM",
+   "Nakshatram": "Chithirai from : 04:58 AM",
+   "Yogam": "Ma from : 4:58am;#Am",
+   "Rahu": "09:33am-11:18am",
+   "Yama": "02:50pm-04:35pm",
+   "Guli": "06:02am-07:47am"
+ },
+ {
+   "Date": "15/05/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Chaturdashi from : 12:15 AM Pournami from : 09:13 PM",
+   "Nakshatram": "Swathi from : 03:05 AM",
+   "Yogam": "Si from : 3:05am;#Ma",
+   "Rahu": "06:23pm-08:09pm",
+   "Yama": "01:05pm-02:51pm",
+   "Guli": "04:37pm-06:23pm"
+ },
+ {
+   "Date": "16/05/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Pirathamai from : 05:55 PM",
+   "Nakshatram": "Visakam from : 12:48 AM Anusham from : 10:17 PM",
+   "Yogam": "Ma from : 0:48am;#Si Si from : 10:17pm;#Si",
+   "Rahu": "07:46am-09:32am",
+   "Yama": "11:18am-01:04pm",
+   "Guli": "02:51pm-04:37pm"
+ },
+ {
+   "Date": "17/05/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Dwitiyai from : 02:30 PM",
+   "Nakshatram": "Kettai from : 07:40 PM",
+   "Yogam": "Si from : 7:40pm;#Am",
+   "Rahu": "04:37pm-06:23pm",
+   "Yama": "09:31am-11:17am",
+   "Guli": "01:04pm-02:50pm"
+ },
+ {
+   "Date": "18/05/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Thiruthiyai from : 11:07 AM",
+   "Nakshatram": "Moolam from : 05:07 PM",
+   "Yogam": "Ma from : 5:07pm;#Am",
+   "Rahu": "01:04pm-02:50pm",
+   "Yama": "07:44am-09:30am",
+   "Guli": "11:17am-01:03pm"
+ },
+ {
+   "Date": "19/05/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Chaturthi from : 07:54 AM",
+   "Nakshatram": "Pooradam from : 02:48 PM",
+   "Yogam": "Si from : 2:48pm;#Si",
+   "Rahu": "02:51pm-04:37pm",
+   "Yama": "05:58am-07:44am",
+   "Guli": "09:31am-11:17am"
+ },
+ {
+   "Date": "20/05/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Panchami from : 04:59 AM",
+   "Nakshatram": "Uthiradam from : 12:49 PM",
+   "Yogam": "Si from : 12:49pm;#Ma",
+   "Rahu": "11:18am-01:05pm",
+   "Yama": "04:39pm-06:26pm",
+   "Guli": "07:44am-09:31am"
+ },
+ {
+   "Date": "21/05/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Sashti from : 02:29 AM",
+   "Nakshatram": "Thiruvonam from : 11:17 AM",
+   "Yogam": "Si from : 11:17am;#Si",
+   "Rahu": "09:30am-11:17am",
+   "Yama": "02:52pm-04:39pm",
+   "Guli": "05:56am-07:43am"
+ },
+ {
+   "Date": "22/05/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Sapthami from : 12:29 AM Krishnapaksha - Ashtami from : 11:04 PM",
+   "Nakshatram": "Avittam from : 10:17 AM",
+   "Yogam": "Ma from : 10:17am;#Si",
+   "Rahu": "06:26pm-08:13pm",
+   "Yama": "01:05pm-02:52pm",
+   "Guli": "04:39pm-06:26pm"
+ },
+ {
+   "Date": "23/05/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Navami from : 10:15 PM",
+   "Nakshatram": "Sathayam from : 09:52 AM",
+   "Yogam": "Si from : 9:52am;#Ma",
+   "Rahu": "07:42am-09:29am",
+   "Yama": "11:17am-01:04pm",
+   "Guli": "02:52pm-04:39pm"
+ },
+ {
+   "Date": "24/05/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Dashami from : 10:02 PM",
+   "Nakshatram": "Poorattathi from : 10:04 AM",
+   "Yogam": "Ma from : 10:04am;#Am",
+   "Rahu": "04:40pm-06:27pm",
+   "Yama": "09:29am-11:16am",
+   "Guli": "01:05pm-02:52pm"
+ },
+ {
+   "Date": "25/05/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Ekadashi from : 10:24 PM",
+   "Nakshatram": "Uthirattathi from : 10:50 AM",
+   "Yogam": "Si from : 10:50am;#Ma",
+   "Rahu": "01:05pm-02:52pm",
+   "Yama": "07:41am-09:28am",
+   "Guli": "11:17am-01:04pm"
+ },
+ {
+   "Date": "26/05/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Dwadashi from : 11:18 PM",
+   "Nakshatram": "Revathi from : 12:09 PM",
+   "Yogam": "Si from : 12:09pm;#Am",
+   "Rahu": "02:53pm-04:41pm",
+   "Yama": "05:53am-07:41am",
+   "Guli": "09:29am-11:17am"
+ },
+ {
+   "Date": "27/05/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Trayodashi from : 0:39am+",
+   "Nakshatram": "Aswini from : 01:57 PM",
+   "Yogam": "Am from : 1:57pm;#Si",
+   "Rahu": "11:17am-01:05pm",
+   "Yama": "04:41pm-06:29pm",
+   "Guli": "07:41am-09:29am"
+ },
+ {
+   "Date": "28/05/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Trayodashi from : 12:39 AM",
+   "Nakshatram": "Bharani from : 04:10 PM",
+   "Yogam": "Si from : 4:10pm;#Am",
+   "Rahu": "09:28am-11:16am",
+   "Yama": "02:53pm-04:41pm",
+   "Guli": "05:52am-07:40am"
+ },
+ {
+   "Date": "29/05/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Chaturdashi from : 02:25 AM",
+   "Nakshatram": "Karthigai from : 06:43 PM",
+   "Yogam": "Si from : 6:43pm;#Si",
+   "Rahu": "06:31pm-08:19pm",
+   "Yama": "01:06pm-02:54pm",
+   "Guli": "04:43pm-06:31pm"
+ },
+ {
+   "Date": "30/05/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Amaavaasai from : 04:30 AM",
+   "Nakshatram": "Rohini from : 09:32 PM",
+   "Yogam": "Am from : 9:32pm;#Am",
+   "Rahu": "07:39am-09:27am",
+   "Yama": "11:16am-01:04pm",
+   "Guli": "02:54pm-04:42pm"
+ },
+ {
+   "Date": "31/05/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Pirathamai from : 06:49 AM",
+   "Nakshatram": "Mirugasirisham from : 04:43pm-06:31pm",
+   "Yogam": "Am",
+   "Rahu": "04:43pm-06:31pm",
+   "Yama": "09:28am-11:16am",
+   "Guli": "01:06pm-02:54pm"
+ },
+ {
+   "Date": "01/06/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Dwitiyai from : 09:17 AM",
+   "Nakshatram": "Mirugasirisham from : 12:31 AM",
+   "Yogam": "Si from : 0:31am;#Si",
+   "Rahu": "01:06pm-02:54pm",
+   "Yama": "07:39am-09:27am",
+   "Guli": "11:17am-01:05pm"
+ },
+ {
+   "Date": "02/06/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Thiruthiyai from : 11:47 AM",
+   "Nakshatram": "Thiruvathiraia from : 03:35 AM",
+   "Yogam": "Ma from : 3:35am;#Am",
+   "Rahu": "02:55pm-04:44pm",
+   "Yama": "05:50am-07:39am",
+   "Guli": "09:28am-11:17am"
+ },
+ {
+   "Date": "03/06/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Chaturthi from : 02:12 PM",
+   "Nakshatram": "Punarpoosam from : 06:36 AM",
+   "Yogam": "Si from : 6:36am;#Ma",
+   "Rahu": "11:17am-01:06pm",
+   "Yama": "04:44pm-06:33pm",
+   "Guli": "07:39am-09:28am"
+ },
+ {
+   "Date": "04/06/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Panchami from : 04:22 PM",
+   "Nakshatram": "Poosam from : 09:25 AM",
+   "Yogam": "Si from : 9:25am;#Ma",
+   "Rahu": "09:28am-11:17am",
+   "Yama": "02:56pm-04:45pm",
+   "Guli": "05:50am-07:39am"
+ },
+ {
+   "Date": "05/06/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Sashti from : 06:10 PM",
+   "Nakshatram": "Ayilyam from : 11:55 AM",
+   "Yogam": "Si from : 11:55am;#Ma",
+   "Rahu": "06:34pm-08:23pm",
+   "Yama": "01:06pm-02:55pm",
+   "Guli": "04:45pm-06:34pm"
+ },
+ {
+   "Date": "06/06/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Sapthami from : 07:25 PM",
+   "Nakshatram": "Magam from : 01:56 PM",
+   "Yogam": "Ma from : 1:56pm;#Si",
+   "Rahu": "07:38am-09:27am",
+   "Yama": "11:17am-01:06pm",
+   "Guli": "02:56pm-04:45pm"
+ },
+ {
+   "Date": "07/06/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Ashtami from : 08:00 PM",
+   "Nakshatram": "Pooram from : 03:20 PM",
+   "Yogam": "Si from : 3:20pm;#Am",
+   "Rahu": "04:46pm-06:35pm",
+   "Yama": "09:28am-11:17am",
+   "Guli": "01:07pm-02:56pm"
+ },
+ {
+   "Date": "08/06/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Navami from : 07:51 PM",
+   "Nakshatram": "Uthiram from : 04:01 PM",
+   "Yogam": "Am from : 4:01pm;#Ma",
+   "Rahu": "01:07pm-02:56pm",
+   "Yama": "07:38am-09:27am",
+   "Guli": "11:17am-01:06pm"
+ },
+ {
+   "Date": "09/06/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Dashami from : 06:56 PM",
+   "Nakshatram": "Hastham from : 03:57 PM",
+   "Yogam": "Si from : 3:57pm;#Si",
+   "Rahu": "02:57pm-04:46pm",
+   "Yama": "05:49am-07:38am",
+   "Guli": "09:28am-11:17am"
+ },
+ {
+   "Date": "10/06/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Ekadashi from : 05:15 PM",
+   "Nakshatram": "Chithirai from : 03:07 PM",
+   "Yogam": "Si from : 3:07pm;#Si",
+   "Rahu": "11:18am-01:07pm",
+   "Yama": "04:47pm-06:36pm",
+   "Guli": "07:38am-09:27am"
+ },
+ {
+   "Date": "11/06/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Dwadashi from : 02:53 PM",
+   "Nakshatram": "Swathi from : 01:36 PM",
+   "Yogam": "Am from : 1:36pm;#Si",
+   "Rahu": "09:27am-11:16am",
+   "Yama": "02:57pm-04:46pm",
+   "Guli": "05:48am-07:37am"
+ },
+ {
+   "Date": "12/06/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Trayodashi from : 11:56 AM",
+   "Nakshatram": "Visakam from : 11:29 AM",
+   "Yogam": "Ma from : 11:29am;#Ma",
+   "Rahu": "06:38pm-08:28pm",
+   "Yama": "01:08pm-02:58pm",
+   "Guli": "04:48pm-06:38pm"
+ },
+ {
+   "Date": "13/06/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Chaturdashi from : 08:32 AM",
+   "Nakshatram": "Anusham from : 08:54 AM",
+   "Yogam": "Si from : 8:54am;#Si",
+   "Rahu": "07:38am-09:28am",
+   "Yama": "11:18am-01:08pm",
+   "Guli": "02:58pm-04:48pm"
+ },
+ {
+   "Date": "14/06/2022",
+   "Day": "Tue",
+   "Tithi": "Pournami from : 04:51 AM",
+   "Nakshatram": "Kettai from : 06:02 AM",
+   "Yogam": "Si from : 6:02am;#Am",
+   "Rahu": "04:48pm-06:38pm",
+   "Yama": "09:28am-11:18am",
+   "Guli": "01:08pm-02:58pm"
+ },
+ {
+   "Date": "15/06/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Pirathamai from : 01:01 AM Krishnapaksha - Dwitiyai from : 09:15 PM",
+   "Nakshatram": "Moolam from : 03:03 AM",
+   "Yogam": "Ma from : 3:03am;#Am",
+   "Rahu": "01:08pm-02:58pm",
+   "Yama": "07:38am-09:28am",
+   "Guli": "11:18am-01:08pm"
+ },
+ {
+   "Date": "16/06/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Thiruthiyai from : 05:41 PM",
+   "Nakshatram": "Pooradam from : 12:07 AM Uthiradam from : 09:26 PM",
+   "Yogam": "Si from : 0:07am;#Si Si from : 9:26pm;#Si",
+   "Rahu": "02:59pm-04:49pm",
+   "Yama": "05:49am-07:39am",
+   "Guli": "09:29am-11:19am"
+ },
+ {
+   "Date": "17/06/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Chaturthi from : 02:29 PM",
+   "Nakshatram": "Thiruvonam from : 07:09 PM",
+   "Yogam": "Ma from : 7:09pm;#Si",
+   "Rahu": "11:19am-01:09pm",
+   "Yama": "04:49pm-06:39pm",
+   "Guli": "07:39am-09:29am"
+ },
+ {
+   "Date": "18/06/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Panchami from : 11:49 AM",
+   "Nakshatram": "Avittam from : 05:26 PM",
+   "Yogam": "Si from : 5:26pm;#Am",
+   "Rahu": "09:29am-11:19am",
+   "Yama": "02:59pm-04:49pm",
+   "Guli": "05:49am-07:39am"
+ },
+ {
+   "Date": "19/06/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Sashti from : 09:48 AM",
+   "Nakshatram": "Sathayam from : 04:24 PM",
+   "Yogam": "Si from : 4:24pm;#Si",
+   "Rahu": "06:39pm-08:29pm",
+   "Yama": "01:09pm-02:59pm",
+   "Guli": "04:49pm-06:39pm"
+ },
+ {
+   "Date": "20/06/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Sapthami from : 08:31 AM",
+   "Nakshatram": "Poorattathi from : 04:06 PM",
+   "Yogam": "Ma from : 4:06pm;#Si",
+   "Rahu": "07:39am-09:29am",
+   "Yama": "11:19am-01:09pm",
+   "Guli": "02:59pm-04:49pm"
+ },
+ {
+   "Date": "21/06/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Ashtami from : 08:00 AM",
+   "Nakshatram": "Uthirattathi from : 04:34 PM",
+   "Yogam": "Am from : 4:34pm;#Si",
+   "Rahu": "04:50pm-06:40pm",
+   "Yama": "09:29am-11:19am",
+   "Guli": "01:10pm-03:00pm"
+ },
+ {
+   "Date": "22/06/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Navami from : 08:15 AM",
+   "Nakshatram": "Revathi from : 05:45 PM",
+   "Yogam": "Ma from : 5:45pm;#Ma",
+   "Rahu": "01:10pm-03:00pm",
+   "Yama": "07:40am-09:30am",
+   "Guli": "11:20am-01:10pm"
+ },
+ {
+   "Date": "23/06/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Dashami from : 09:11 AM",
+   "Nakshatram": "Aswini from : 07:34 PM",
+   "Yogam": "Am from : 7:34pm;#Si",
+   "Rahu": "03:00pm-04:50pm",
+   "Yama": "05:50am-07:40am",
+   "Guli": "09:30am-11:20am"
+ },
+ {
+   "Date": "24/06/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Ekadashi from : 10:42 AM",
+   "Nakshatram": "Bharani from : 09:54 PM",
+   "Yogam": "Si from : 9:54pm;#Si",
+   "Rahu": "11:20am-01:10pm",
+   "Yama": "04:50pm-06:40pm",
+   "Guli": "07:40am-09:30am"
+ },
+ {
+   "Date": "25/06/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Dwadashi from : 12:40 PM",
+   "Nakshatram": "Karthigai from : 0:36am+",
+   "Yogam": "Si",
+   "Rahu": "09:30am-11:20am",
+   "Yama": "03:00pm-04:50pm",
+   "Guli": "05:50am-07:40am"
+ },
+ {
+   "Date": "26/06/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Trayodashi from : 02:56 PM",
+   "Nakshatram": "Karthigai from : 12:36 AM",
+   "Yogam": "Si from : 0:36am;#Si",
+   "Rahu": "06:41pm-08:31pm",
+   "Yama": "01:11pm-03:01pm",
+   "Guli": "04:51pm-06:41pm"
+ },
+ {
+   "Date": "27/06/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Chaturdashi from : 05:22 PM",
+   "Nakshatram": "Rohini from : 03:33 AM",
+   "Yogam": "Am from : 3:33am;#Am",
+   "Rahu": "07:41am-09:31am",
+   "Yama": "11:21am-01:11pm",
+   "Guli": "03:01pm-04:51pm"
+ },
+ {
+   "Date": "28/06/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Amaavaasai from : 07:52 PM",
+   "Nakshatram": "Mirugasirisham from : 06:36 AM",
+   "Yogam": "Si from : 6:36am;#Ma",
+   "Rahu": "04:51pm-06:41pm",
+   "Yama": "09:31am-11:21am",
+   "Guli": "01:11pm-03:01pm"
+ },
+ {
+   "Date": "29/06/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Pirathamai from : 10:19 PM",
+   "Nakshatram": "Thiruvathiraia from : 09:39 AM",
+   "Yogam": "Si from : 9:39am;#Si",
+   "Rahu": "01:11pm-03:00pm",
+   "Yama": "07:41am-09:30am",
+   "Guli": "11:21am-01:10pm"
+ },
+ {
+   "Date": "30/06/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Dwitiyai from : 12:39 PM",
+   "Nakshatram": "Punarpoosam from : 12:38 PM",
+   "Yogam": "Am from : 12:38pm;#Am",
+   "Rahu": "03:01pm-04:50pm",
+   "Yama": "05:52am-07:41am",
+   "Guli": "09:31am-11:20am"
+ },
+ {
+   "Date": "01/07/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Dwitiyai from : 12:39 AM",
+   "Nakshatram": "Poosam from : 03:27 PM",
+   "Yogam": "Ma from : 3:27pm;#Ma",
+   "Rahu": "11:22am-01:11pm",
+   "Yama": "04:51pm-06:40pm",
+   "Guli": "07:42am-09:31am"
+ },
+ {
+   "Date": "02/07/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Thiruthiyai from : 02:47 AM",
+   "Nakshatram": "Ayilyam from : 06:01 PM",
+   "Yogam": "Ma from : 6:01pm;#Am",
+   "Rahu": "09:32am-11:21am",
+   "Yama": "03:01pm-04:50pm",
+   "Guli": "05:53am-07:42am"
+ },
+ {
+   "Date": "03/07/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Chaturthi from : 04:37 AM",
+   "Nakshatram": "Magam from : 08:14 PM",
+   "Yogam": "Ma from : 8:14pm;#Si",
+   "Rahu": "06:41pm-08:30pm",
+   "Yama": "01:12pm-03:01pm",
+   "Guli": "04:51pm-06:40pm"
+ },
+ {
+   "Date": "04/07/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Panchami from : 06:02 AM",
+   "Nakshatram": "Pooram from : 10:01 PM",
+   "Yogam": "Si from : 10:01pm;#Si",
+   "Rahu": "07:43am-09:32am",
+   "Yama": "11:22am-01:11pm",
+   "Guli": "03:02pm-04:51pm"
+ },
+ {
+   "Date": "05/07/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Sashti from : 06:58 AM",
+   "Nakshatram": "Uthiram from : 11:15 PM",
+   "Yogam": "Am from : 11:15pm;#Si",
+   "Rahu": "04:52pm-06:41pm",
+   "Yama": "09:34am-11:23am",
+   "Guli": "01:13pm-03:02pm"
+ },
+ {
+   "Date": "06/07/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Sapthami from : 07:18 AM",
+   "Nakshatram": "Hastham from : 11:50 PM",
+   "Yogam": "Ma from : 11:50pm;#Si",
+   "Rahu": "01:12pm-03:01pm",
+   "Yama": "07:44am-09:33am",
+   "Guli": "11:23am-01:12pm"
+ },
+ {
+   "Date": "07/07/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Ashtami from : 06:58 AM",
+   "Nakshatram": "Chithirai from : 11:44 PM",
+   "Yogam": "Si from : 11:44pm;#Am",
+   "Rahu": "03:02pm-04:51pm",
+   "Yama": "05:56am-07:45am",
+   "Guli": "09:34am-11:23am"
+ },
+ {
+   "Date": "08/07/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Navami from : 05:55 AM",
+   "Nakshatram": "Swathi from : 10:55 PM",
+   "Yogam": "Si from : 10:55pm;#Si",
+   "Rahu": "11:24am-01:13pm",
+   "Yama": "04:51pm-06:40pm",
+   "Guli": "07:46am-09:35am"
+ },
+ {
+   "Date": "09/07/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Dashami from : 04:09 AM",
+   "Nakshatram": "Visakam from : 09:26 PM",
+   "Yogam": "Si from : 9:26pm;#Si",
+   "Rahu": "09:35am-11:24am",
+   "Yama": "03:02pm-04:51pm",
+   "Guli": "05:57am-07:46am"
+ },
+ {
+   "Date": "10/07/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Ekadashi from : 01:44 AM Suklapaksha - Dwadashi from : 10:43 PM",
+   "Nakshatram": "Anusham from : 07:20 PM",
+   "Yogam": "Ma from : 7:20pm;#Ma",
+   "Rahu": "06:40pm-08:28pm",
+   "Yama": "01:13pm-03:01pm",
+   "Guli": "04:51pm-06:39pm"
+ },
+ {
+   "Date": "11/07/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Trayodashi from : 07:16 PM",
+   "Nakshatram": "Kettai from : 04:46 PM",
+   "Yogam": "Si from : 4:46pm;#Si",
+   "Rahu": "07:46am-09:34am",
+   "Yama": "11:24am-01:12pm",
+   "Guli": "03:02pm-04:50pm"
+ },
+ {
+   "Date": "12/07/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Chaturdashi from : 03:30 PM",
+   "Nakshatram": "Moolam from : 01:52 PM",
+   "Yogam": "Am from : 1:52pm;#Si",
+   "Rahu": "04:50pm-06:38pm",
+   "Yama": "09:36am-11:24am",
+   "Guli": "01:13pm-03:01pm"
+ },
+ {
+   "Date": "13/07/2022",
+   "Day": "Wed",
+   "Tithi": "Pournami from : 11:37 AM",
+   "Nakshatram": "Pooradam from : 10:49 AM",
+   "Yogam": "Am from : 10:49am;#Am",
+   "Rahu": "01:14pm-03:02pm",
+   "Yama": "07:48am-09:36am",
+   "Guli": "11:25am-01:13pm"
+ },
+ {
+   "Date": "14/07/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Pirathamai from : 07:46 AM",
+   "Nakshatram": "Uthiradam from : 07:48 AM",
+   "Yogam": "Si from : 7:48am;#Si",
+   "Rahu": "03:01pm-04:49pm",
+   "Yama": "06:00am-07:48am",
+   "Guli": "09:36am-11:24am"
+ },
+ {
+   "Date": "15/07/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Dwitiyai from : 04:09 AM",
+   "Nakshatram": "Thiruvonam from : 05:02 AM",
+   "Yogam": "Ma from : 5:02am;#Si",
+   "Rahu": "11:25am-01:13pm",
+   "Yama": "04:50pm-06:38pm",
+   "Guli": "07:49am-09:37am"
+ },
+ {
+   "Date": "16/07/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Thiruthiyai from : 12:57 AM Krishnapaksha - Chaturthi from : 10:19 PM",
+   "Nakshatram": "Avittam from : 02:41 AM",
+   "Yogam": "Si from : 2:41am;#Am",
+   "Rahu": "09:38am-11:26am",
+   "Yama": "03:02pm-04:50pm",
+   "Guli": "06:02am-07:50am"
+ },
+ {
+   "Date": "17/07/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Panchami from : 08:25 PM",
+   "Nakshatram": "Sathayam from : 12:55 AM Poorattathi from : 11:54 PM",
+   "Yogam": "Si from : 0:55am;#Si Si from : 11:54pm;#Am",
+   "Rahu": "06:38pm-08:25pm",
+   "Yama": "01:14pm-03:01pm",
+   "Guli": "04:50pm-06:37pm"
+ },
+ {
+   "Date": "18/07/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Sashti from : 07:19 PM",
+   "Nakshatram": "Uthirattathi from : 11:42 PM",
+   "Yogam": "Si from : 11:42pm;#Si",
+   "Rahu": "07:50am-09:37am",
+   "Yama": "11:26am-01:13pm",
+   "Guli": "03:01pm-04:48pm"
+ },
+ {
+   "Date": "19/07/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Sapthami from : 07:06 PM",
+   "Nakshatram": "Revathi from : 0:21am+",
+   "Yogam": "Ma",
+   "Rahu": "04:49pm-06:36pm",
+   "Yama": "09:39am-11:26am",
+   "Guli": "01:14pm-03:01pm"
+ },
+ {
+   "Date": "20/07/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Ashtami from : 07:42 PM",
+   "Nakshatram": "Revathi from : 12:21 AM",
+   "Yogam": "Ma from : 0:21am;#Ma",
+   "Rahu": "01:14pm-03:01pm",
+   "Yama": "07:52am-09:39am",
+   "Guli": "11:27am-01:14pm"
+ },
+ {
+   "Date": "21/07/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Navami from : 09:02 PM",
+   "Nakshatram": "Aswini from : 01:48 AM",
+   "Yogam": "Am from : 1:48am;#Si",
+   "Rahu": "03:01pm-04:48pm",
+   "Yama": "06:06am-07:53am",
+   "Guli": "09:40am-11:27am"
+ },
+ {
+   "Date": "22/07/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Dashami from : 10:57 PM",
+   "Nakshatram": "Bharani from : 03:55 AM",
+   "Yogam": "Si from : 3:55am;#Si",
+   "Rahu": "11:27am-01:14pm",
+   "Yama": "04:48pm-06:35pm",
+   "Guli": "07:53am-09:40am"
+ },
+ {
+   "Date": "23/07/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Ekadashi from : 1:15am+",
+   "Nakshatram": "Karthigai from : 06:34 AM",
+   "Yogam": "Am from : 6:34am;#Am",
+   "Rahu": "09:40am-11:26am",
+   "Yama": "03:01pm-04:47pm",
+   "Guli": "06:07am-07:53am"
+ },
+ {
+   "Date": "24/07/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Ekadashi from : 01:15 AM",
+   "Nakshatram": "Rohini from : 09:31 AM",
+   "Yogam": "Si from : 9:31am;#Si",
+   "Rahu": "06:34pm-08:20pm",
+   "Yama": "01:14pm-03:00pm",
+   "Guli": "04:47pm-06:33pm"
+ },
+ {
+   "Date": "25/07/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Dwadashi from : 03:45 AM",
+   "Nakshatram": "Mirugasirisham from : 12:36 PM",
+   "Yogam": "Am from : 12:36pm;#Si",
+   "Rahu": "07:55am-09:41am",
+   "Yama": "11:28am-01:14pm",
+   "Guli": "03:00pm-04:46pm"
+ },
+ {
+   "Date": "26/07/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Trayodashi from : 06:17 AM",
+   "Nakshatram": "Thiruvathiraia from : 03:40 PM",
+   "Yogam": "Ma from : 3:40pm;#Si",
+   "Rahu": "04:46pm-06:32pm",
+   "Yama": "09:41am-11:27am",
+   "Guli": "01:14pm-03:00pm"
+ },
+ {
+   "Date": "27/07/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Chaturdashi from : 08:42 AM",
+   "Nakshatram": "Punarpoosam from : 06:35 PM",
+   "Yogam": "Si from : 6:35pm;#Si",
+   "Rahu": "01:14pm-03:00pm",
+   "Yama": "07:56am-09:42am",
+   "Guli": "11:28am-01:14pm"
+ },
+ {
+   "Date": "28/07/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Amaavaasai from : 10:54 AM",
+   "Nakshatram": "Poosam from : 09:17 PM",
+   "Yogam": "Am from : 9:17pm;#Si",
+   "Rahu": "03:00pm-04:45pm",
+   "Yama": "06:11am-07:56am",
+   "Guli": "09:42am-11:27am"
+ },
+ {
+   "Date": "29/07/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Pirathamai from : 12:51 PM",
+   "Nakshatram": "Ayilyam from : 11:43 PM",
+   "Yogam": "Ma from : 11:43pm;#Ma",
+   "Rahu": "11:28am-01:13pm",
+   "Yama": "04:45pm-06:30pm",
+   "Guli": "07:57am-09:42am"
+ },
+ {
+   "Date": "30/07/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Dwitiyai from : 02:30 PM",
+   "Nakshatram": "Magam from : 1:51am+",
+   "Yogam": "Ma",
+   "Rahu": "09:43am-11:28am",
+   "Yama": "02:59pm-04:44pm",
+   "Guli": "06:13am-07:58am"
+ },
+ {
+   "Date": "31/07/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Thiruthiyai from : 03:48 PM",
+   "Nakshatram": "Magam from : 01:51 AM",
+   "Yogam": "Ma from : 1:51am;#Si",
+   "Rahu": "06:29pm-08:14pm",
+   "Yama": "01:14pm-02:59pm",
+   "Guli": "04:44pm-06:29pm"
+ },
+ {
+   "Date": "01/08/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Chaturthi from : 04:43 PM",
+   "Nakshatram": "Pooram from : 03:37 AM",
+   "Yogam": "Si from : 3:37am;#Si",
+   "Rahu": "07:59am-09:44am",
+   "Yama": "11:29am-01:14pm",
+   "Guli": "02:59pm-04:44pm"
+ },
+ {
+   "Date": "02/08/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Panchami from : 05:12 PM",
+   "Nakshatram": "Uthiram from : 04:59 AM",
+   "Yogam": "Am from : 4:59am;#Si",
+   "Rahu": "04:43pm-06:27pm",
+   "Yama": "09:44am-11:28am",
+   "Guli": "01:14pm-02:58pm"
+ },
+ {
+   "Date": "03/08/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Sashti from : 05:11 PM",
+   "Nakshatram": "Hastham from : 05:54 AM",
+   "Yogam": "Ma from : 5:54am;#Si",
+   "Rahu": "01:14pm-02:58pm",
+   "Yama": "08:00am-09:44am",
+   "Guli": "11:29am-01:13pm"
+ },
+ {
+   "Date": "04/08/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Sapthami from : 04:36 PM",
+   "Nakshatram": "Chithirai from : 06:18 AM",
+   "Yogam": "Si from : 6:18am;#Am",
+   "Rahu": "02:58pm-04:42pm",
+   "Yama": "06:17am-08:01am",
+   "Guli": "09:45am-11:29am"
+ },
+ {
+   "Date": "05/08/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Ashtami from : 03:26 PM",
+   "Nakshatram": "Swathi from : 06:08 AM",
+   "Yogam": "Si from : 6:08am;#Si",
+   "Rahu": "11:30am-01:14pm",
+   "Yama": "04:42pm-06:26pm",
+   "Guli": "08:02am-09:46am"
+ },
+ {
+   "Date": "06/08/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Navami from : 01:41 PM",
+   "Nakshatram": "Visakam from : 05:22 AM",
+   "Yogam": "Si from : 5:22am;#Si",
+   "Rahu": "09:46am-11:29am",
+   "Yama": "02:57pm-04:40pm",
+   "Guli": "06:19am-08:02am"
+ },
+ {
+   "Date": "07/08/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Dashami from : 11:21 AM",
+   "Nakshatram": "Anusham from : 04:01 AM",
+   "Yogam": "Ma from : 4:01am;#Ma",
+   "Rahu": "06:24pm-08:07pm",
+   "Yama": "01:14pm-02:57pm",
+   "Guli": "04:41pm-06:24pm"
+ },
+ {
+   "Date": "08/08/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Ekadashi from : 08:30 AM",
+   "Nakshatram": "Kettai from : 02:08 AM Moolam from : 11:48 PM",
+   "Yogam": "Si from : 2:08am;#Si Si from : 11:48pm;#Si",
+   "Rahu": "08:03am-09:46am",
+   "Yama": "11:30am-01:13pm",
+   "Guli": "02:56pm-04:39pm"
+ },
+ {
+   "Date": "09/08/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Dwadashi from : 05:16 AM",
+   "Nakshatram": "Pooradam from : 09:10 PM",
+   "Yogam": "Si from : 9:10pm;#Si",
+   "Rahu": "04:39pm-06:22pm",
+   "Yama": "09:47am-11:30am",
+   "Guli": "01:13pm-02:56pm"
+ },
+ {
+   "Date": "10/08/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Trayodashi from : 01:45 AM Suklapaksha - Chaturdashi from : 10:08 PM",
+   "Nakshatram": "Uthiradam from : 06:23 PM",
+   "Yogam": "Am from : 6:23pm;#Si",
+   "Rahu": "01:13pm-02:55pm",
+   "Yama": "08:04am-09:46am",
+   "Guli": "11:30am-01:12pm"
+ },
+ {
+   "Date": "11/08/2022",
+   "Day": "Thu",
+   "Tithi": "Pournami from : 06:35 PM",
+   "Nakshatram": "Thiruvonam from : 03:38 PM",
+   "Yogam": "Si from : 3:38pm;#Si",
+   "Rahu": "02:55pm-04:37pm",
+   "Yama": "06:23am-08:05am",
+   "Guli": "09:48am-11:30am"
+ },
+ {
+   "Date": "12/08/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Pirathamai from : 03:16 PM",
+   "Nakshatram": "Avittam from : 01:06 PM",
+   "Yogam": "Si from : 1:06pm;#Si",
+   "Rahu": "11:30am-01:12pm",
+   "Yama": "04:37pm-06:19pm",
+   "Guli": "08:06am-09:48am"
+ },
+ {
+   "Date": "13/08/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Dwitiyai from : 12:23 PM",
+   "Nakshatram": "Sathayam from : 10:59 AM",
+   "Yogam": "Am from : 10:59am;#Ma",
+   "Rahu": "09:49am-11:31am",
+   "Yama": "02:55pm-04:37pm",
+   "Guli": "06:25am-08:07am"
+ },
+ {
+   "Date": "14/08/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Thiruthiyai from : 10:05 AM",
+   "Nakshatram": "Poorattathi from : 09:26 AM",
+   "Yogam": "Si from : 9:26am;#Am",
+   "Rahu": "06:17pm-07:58pm",
+   "Yama": "01:12pm-02:53pm",
+   "Guli": "04:35pm-06:16pm"
+ },
+ {
+   "Date": "15/08/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Chaturthi from : 08:32 AM",
+   "Nakshatram": "Uthirattathi from : 08:37 AM",
+   "Yogam": "Si from : 8:37am;#Si",
+   "Rahu": "08:07am-09:48am",
+   "Yama": "11:30am-01:11pm",
+   "Guli": "02:53pm-04:34pm"
+ },
+ {
+   "Date": "16/08/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Panchami from : 07:47 AM",
+   "Nakshatram": "Revathi from : 08:37 AM",
+   "Yogam": "Si from : 8:37am;#Si",
+   "Rahu": "04:34pm-06:15pm",
+   "Yama": "09:49am-11:30am",
+   "Guli": "01:12pm-02:53pm"
+ },
+ {
+   "Date": "17/08/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Sashti from : 07:54 AM",
+   "Nakshatram": "Aswini from : 09:28 AM",
+   "Yogam": "Ma from : 9:28am;#Si",
+   "Rahu": "01:12pm-02:53pm",
+   "Yama": "08:09am-09:50am",
+   "Guli": "11:31am-01:12pm"
+ },
+ {
+   "Date": "18/08/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Sapthami from : 08:51 AM",
+   "Nakshatram": "Bharani from : 11:06 AM",
+   "Yogam": "Si from : 11:06am;#Ma",
+   "Rahu": "02:52pm-04:32pm",
+   "Yama": "06:29am-08:09am",
+   "Guli": "09:50am-11:30am"
+ },
+ {
+   "Date": "19/08/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Ashtami from : 10:29 AM",
+   "Nakshatram": "Karthigai from : 01:24 PM",
+   "Yogam": "Si from : 1:24pm;#Ma",
+   "Rahu": "11:31am-01:11pm",
+   "Yama": "04:32pm-06:12pm",
+   "Guli": "08:10am-09:50am"
+ },
+ {
+   "Date": "20/08/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Navami from : 12:39 PM",
+   "Nakshatram": "Rohini from : 04:10 PM",
+   "Yogam": "Am from : 4:10pm;#Si",
+   "Rahu": "09:51am-11:31am",
+   "Yama": "02:51pm-04:31pm",
+   "Guli": "06:31am-08:11am"
+ },
+ {
+   "Date": "21/08/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Dashami from : 03:06 PM",
+   "Nakshatram": "Mirugasirisham from : 07:12 PM",
+   "Yogam": "Si from : 7:12pm;#Si",
+   "Rahu": "06:10pm-07:49pm",
+   "Yama": "01:11pm-02:50pm",
+   "Guli": "04:30pm-06:09pm"
+ },
+ {
+   "Date": "22/08/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Ekadashi from : 05:37 PM",
+   "Nakshatram": "Thiruvathiraia from : 10:15 PM",
+   "Yogam": "Si from : 10:15pm;#Am",
+   "Rahu": "08:11am-09:50am",
+   "Yama": "11:30am-01:09pm",
+   "Guli": "02:50pm-04:29pm"
+ },
+ {
+   "Date": "23/08/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Dwadashi from : 08:00 PM",
+   "Nakshatram": "Punarpoosam from : 1:09am+",
+   "Yogam": "Si",
+   "Rahu": "04:28pm-06:07pm",
+   "Yama": "09:51am-11:30am",
+   "Guli": "01:10pm-02:49pm"
+ },
+ {
+   "Date": "24/08/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Trayodashi from : 10:08 PM",
+   "Nakshatram": "Punarpoosam from : 01:09 AM",
+   "Yogam": "Si from : 1:09am;#Si",
+   "Rahu": "01:10pm-02:49pm",
+   "Yama": "08:13am-09:52am",
+   "Guli": "11:31am-01:10pm"
+ },
+ {
+   "Date": "25/08/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Chaturdashi from : 11:54 PM",
+   "Nakshatram": "Poosam from : 03:47 AM",
+   "Yogam": "Am from : 3:47am;#Si",
+   "Rahu": "02:48pm-04:26pm",
+   "Yama": "06:35am-08:13am",
+   "Guli": "09:52am-11:30am"
+ },
+ {
+   "Date": "26/08/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Amaavaasai from : 1:16am+",
+   "Nakshatram": "Ayilyam from : 06:03 AM",
+   "Yogam": "Ma from : 6:03am;#Ma",
+   "Rahu": "11:31am-01:09pm",
+   "Yama": "04:26pm-06:04pm",
+   "Guli": "08:14am-09:52am"
+ },
+ {
+   "Date": "27/08/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Amaavaasai from : 01:16 AM",
+   "Nakshatram": "Magam from : 07:57 AM",
+   "Yogam": "Am from : 7:57am;#Si",
+   "Rahu": "09:53am-11:31am",
+   "Yama": "02:47pm-04:25pm",
+   "Guli": "06:37am-08:15am"
+ },
+ {
+   "Date": "28/08/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Pirathamai from : 02:15 AM",
+   "Nakshatram": "Pooram from : 09:27 AM",
+   "Yogam": "Si from : 9:27am;#Am",
+   "Rahu": "06:02pm-07:39pm",
+   "Yama": "01:09pm-02:46pm",
+   "Guli": "04:24pm-06:01pm"
+ },
+ {
+   "Date": "29/08/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Dwitiyai from : 02:50 AM",
+   "Nakshatram": "Uthiram from : 10:34 AM",
+   "Yogam": "Si from : 10:34am;#Si",
+   "Rahu": "08:15am-09:52am",
+   "Yama": "11:30am-01:07pm",
+   "Guli": "02:46pm-04:23pm"
+ },
+ {
+   "Date": "30/08/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Thiruthiyai from : 03:03 AM",
+   "Nakshatram": "Hastham from : 11:20 AM",
+   "Yogam": "Si from : 11:20am;#Si",
+   "Rahu": "04:22pm-05:59pm",
+   "Yama": "09:53am-11:30am",
+   "Guli": "01:08pm-02:45pm"
+ },
+ {
+   "Date": "31/08/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Chaturthi from : 02:52 AM",
+   "Nakshatram": "Chithirai from : 11:43 AM",
+   "Yogam": "Si from : 11:43am;#Si",
+   "Rahu": "01:08pm-02:45pm",
+   "Yama": "08:17am-09:54am",
+   "Guli": "11:31am-01:08pm"
+ },
+ {
+   "Date": "01/09/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Panchami from : 02:19 AM",
+   "Nakshatram": "Swathi from : 11:42 AM",
+   "Yogam": "Am from : 11:42am;#Si",
+   "Rahu": "02:44pm-04:20pm",
+   "Yama": "06:41am-08:17am",
+   "Guli": "09:54am-11:30am"
+ },
+ {
+   "Date": "02/09/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Sashti from : 01:21 AM Suklapaksha - Sapthami from : 11:58 PM",
+   "Nakshatram": "Visakam from : 11:18 AM",
+   "Yogam": "Si from : 11:18am;#Si",
+   "Rahu": "11:31am-01:07pm",
+   "Yama": "04:20pm-05:56pm",
+   "Guli": "08:18am-09:54am"
+ },
+ {
+   "Date": "03/09/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Ashtami from : 10:10 PM",
+   "Nakshatram": "Anusham from : 10:28 AM",
+   "Yogam": "Si from : 10:28am;#Si",
+   "Rahu": "09:55am-11:31am",
+   "Yama": "02:43pm-04:19pm",
+   "Guli": "06:43am-08:19am"
+ },
+ {
+   "Date": "04/09/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Navami from : 07:57 PM",
+   "Nakshatram": "Kettai from : 09:13 AM",
+   "Yogam": "Ma from : 9:13am;#Am",
+   "Rahu": "05:54pm-07:29pm",
+   "Yama": "01:06pm-02:41pm",
+   "Guli": "04:18pm-05:53pm"
+ },
+ {
+   "Date": "05/09/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Dashami from : 05:24 PM",
+   "Nakshatram": "Moolam from : 07:36 AM",
+   "Yogam": "Si from : 7:36am;#Si",
+   "Rahu": "08:19am-09:54am",
+   "Yama": "11:30am-01:05pm",
+   "Guli": "02:42pm-04:17pm"
+ },
+ {
+   "Date": "06/09/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Ekadashi from : 02:34 PM",
+   "Nakshatram": "Pooradam from : 05:40 AM",
+   "Yogam": "Si from : 5:40am;#Si",
+   "Rahu": "04:16pm-05:51pm",
+   "Yama": "09:55am-11:30am",
+   "Guli": "01:06pm-02:41pm"
+ },
+ {
+   "Date": "07/09/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Dwadashi from : 11:35 AM",
+   "Nakshatram": "Uthiradam from : 03:31 AM",
+   "Yogam": "Am from : 3:31am;#Si",
+   "Rahu": "01:05pm-02:39pm",
+   "Yama": "08:20am-09:54am",
+   "Guli": "11:30am-01:04pm"
+ },
+ {
+   "Date": "08/09/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Trayodashi from : 08:33 AM",
+   "Nakshatram": "Thiruvonam from : 01:16 AM Avittam from : 11:05 PM",
+   "Yogam": "Si from : 1:16am;#Si Si from : 11:05pm;#Ma",
+   "Rahu": "02:40pm-04:14pm",
+   "Yama": "06:47am-08:21am",
+   "Guli": "09:56am-11:30am"
+ },
+ {
+   "Date": "09/09/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Chaturdashi from : 05:37 AM",
+   "Nakshatram": "Sathayam from : 09:07 PM",
+   "Yogam": "Si from : 9:07pm;#Si",
+   "Rahu": "11:30am-01:04pm",
+   "Yama": "04:13pm-05:47pm",
+   "Guli": "08:22am-09:56am"
+ },
+ {
+   "Date": "10/09/2022",
+   "Day": "Sat",
+   "Tithi": "Pournami from : 02:58 AM",
+   "Nakshatram": "Poorattathi from : 07:32 PM",
+   "Yogam": "Ma from : 7:32pm;#Si",
+   "Rahu": "09:57am-11:31am",
+   "Yama": "02:39pm-04:13pm",
+   "Guli": "06:49am-08:23am"
+ },
+ {
+   "Date": "11/09/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Pirathamai from : 12:45 AM Krishnapaksha - Dwitiyai from : 11:05 PM",
+   "Nakshatram": "Uthirattathi from : 06:30 PM",
+   "Yogam": "Am from : 6:30pm;#Am",
+   "Rahu": "05:45pm-07:18pm",
+   "Yama": "01:04pm-02:37pm",
+   "Guli": "04:11pm-05:44pm"
+ },
+ {
+   "Date": "12/09/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Thiruthiyai from : 10:07 PM",
+   "Nakshatram": "Revathi from : 06:06 PM",
+   "Yogam": "Si from : 6:06pm;#Si",
+   "Rahu": "08:23am-09:56am",
+   "Yama": "11:30am-01:03pm",
+   "Guli": "02:37pm-04:10pm"
+ },
+ {
+   "Date": "13/09/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Chaturthi from : 09:55 PM",
+   "Nakshatram": "Aswini from : 06:28 PM",
+   "Yogam": "Si from : 6:28pm;#Si",
+   "Rahu": "04:09pm-05:42pm",
+   "Yama": "09:57am-11:30am",
+   "Guli": "01:03pm-02:36pm"
+ },
+ {
+   "Date": "14/09/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Panchami from : 10:30 PM",
+   "Nakshatram": "Bharani from : 07:35 PM",
+   "Yogam": "Si from : 7:35pm;#Am",
+   "Rahu": "01:03pm-02:35pm",
+   "Yama": "08:24am-09:56am",
+   "Guli": "11:30am-01:02pm"
+ },
+ {
+   "Date": "15/09/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Sashti from : 11:49 PM",
+   "Nakshatram": "Karthigai from : 09:26 PM",
+   "Yogam": "Ma from : 9:26pm;#Ma",
+   "Rahu": "02:35pm-04:07pm",
+   "Yama": "06:53am-08:25am",
+   "Guli": "09:58am-11:30am"
+ },
+ {
+   "Date": "16/09/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Sapthami from : 1:44am+",
+   "Nakshatram": "Rohini from : 11:52 PM",
+   "Yogam": "Ma from : 11:52pm;#Si",
+   "Rahu": "11:30am-01:02pm",
+   "Yama": "04:06pm-05:38pm",
+   "Guli": "08:26am-09:58am"
+ },
+ {
+   "Date": "17/09/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Sapthami from : 01:44 AM",
+   "Nakshatram": "Mirugasirisham from : 2:41am+",
+   "Yogam": "Si",
+   "Rahu": "09:58am-11:30am",
+   "Yama": "02:34pm-04:06pm",
+   "Guli": "06:54am-08:26am"
+ },
+ {
+   "Date": "18/09/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Ashtami from : 04:03 AM",
+   "Nakshatram": "Mirugasirisham from : 02:41 AM",
+   "Yogam": "Si from : 2:41am;#Si",
+   "Rahu": "05:36pm-07:07pm",
+   "Yama": "01:01pm-02:32pm",
+   "Guli": "04:04pm-05:35pm"
+ },
+ {
+   "Date": "19/09/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Navami from : 06:32 AM",
+   "Nakshatram": "Thiruvathiraia from : 05:41 AM",
+   "Yogam": "Si from : 5:41am;#Am",
+   "Rahu": "08:27am-09:58am",
+   "Yama": "11:30am-01:01pm",
+   "Guli": "02:32pm-04:03pm"
+ },
+ {
+   "Date": "20/09/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Dashami from : 08:56 AM",
+   "Nakshatram": "Punarpoosam from : 08:37 AM",
+   "Yogam": "Si from : 8:37am;#Si",
+   "Rahu": "04:03pm-05:34pm",
+   "Yama": "09:59am-11:30am",
+   "Guli": "01:01pm-02:32pm"
+ },
+ {
+   "Date": "21/09/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Ekadashi from : 11:04 AM",
+   "Nakshatram": "Poosam from : 11:18 AM",
+   "Yogam": "Si from : 11:18am;#Si",
+   "Rahu": "01:01pm-02:31pm",
+   "Yama": "08:28am-09:58am",
+   "Guli": "11:30am-01:00pm"
+ },
+ {
+   "Date": "22/09/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Dwadashi from : 12:47 PM",
+   "Nakshatram": "Ayilyam from : 01:34 PM",
+   "Yogam": "Si from : 1:34pm;#Am",
+   "Rahu": "02:30pm-04:00pm",
+   "Yama": "06:59am-08:29am",
+   "Guli": "09:59am-11:29am"
+ },
+ {
+   "Date": "23/09/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Trayodashi from : 02:00 PM",
+   "Nakshatram": "Magam from : 03:21 PM",
+   "Yogam": "Ma from : 3:21pm;#Si",
+   "Rahu": "11:30am-01:00pm",
+   "Yama": "04:00pm-05:30pm",
+   "Guli": "08:30am-10:00am"
+ },
+ {
+   "Date": "24/09/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Chaturdashi from : 02:42 PM",
+   "Nakshatram": "Pooram from : 04:38 PM",
+   "Yogam": "Si from : 4:38pm;#Ma",
+   "Rahu": "09:59am-11:28am",
+   "Yama": "02:29pm-03:58pm",
+   "Guli": "07:00am-08:29am"
+ },
+ {
+   "Date": "25/09/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Amaavaasai from : 02:54 PM",
+   "Nakshatram": "Uthiram from : 05:26 PM",
+   "Yogam": "Am from : 5:26pm;#Am",
+   "Rahu": "05:27pm-06:56pm",
+   "Yama": "12:59pm-02:28pm",
+   "Guli": "03:58pm-05:27pm"
+ },
+ {
+   "Date": "26/09/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Pirathamai from : 02:38 PM",
+   "Nakshatram": "Hastham from : 05:47 PM",
+   "Yogam": "Si from : 5:47pm;#Si",
+   "Rahu": "08:31am-10:00am",
+   "Yama": "11:29am-12:58pm",
+   "Guli": "02:28pm-03:57pm"
+ },
+ {
+   "Date": "27/09/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Dwitiyai from : 01:58 PM",
+   "Nakshatram": "Chithirai from : 05:45 PM",
+   "Yogam": "Si from : 5:45pm;#Si",
+   "Rahu": "03:56pm-05:24pm",
+   "Yama": "10:00am-11:28am",
+   "Guli": "12:58pm-02:26pm"
+ },
+ {
+   "Date": "28/09/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Thiruthiyai from : 12:57 PM",
+   "Nakshatram": "Swathi from : 05:23 PM",
+   "Yogam": "Si from : 5:23pm;#Si",
+   "Rahu": "12:58pm-02:26pm",
+   "Yama": "08:32am-10:00am",
+   "Guli": "11:29am-12:57pm"
+ },
+ {
+   "Date": "29/09/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Chaturthi from : 11:39 AM",
+   "Nakshatram": "Visakam from : 04:43 PM",
+   "Yogam": "Si from : 4:43pm;#Si",
+   "Rahu": "02:26pm-03:54pm",
+   "Yama": "07:05am-08:33am",
+   "Guli": "10:01am-11:29am"
+ },
+ {
+   "Date": "30/09/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Panchami from : 10:04 AM",
+   "Nakshatram": "Anusham from : 03:49 PM",
+   "Yogam": "Si from : 3:49pm;#Ma",
+   "Rahu": "11:30am-12:58pm",
+   "Yama": "03:54pm-05:22pm",
+   "Guli": "08:34am-10:02am"
+ },
+ {
+   "Date": "01/10/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Sashti from : 08:17 AM",
+   "Nakshatram": "Kettai from : 02:42 PM",
+   "Yogam": "Si from : 2:42pm;#Si",
+   "Rahu": "10:02am-11:29am",
+   "Yama": "02:25pm-03:52pm",
+   "Guli": "07:07am-08:34am"
+ },
+ {
+   "Date": "02/10/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Sapthami from : 06:17 AM",
+   "Nakshatram": "Moolam from : 01:23 PM",
+   "Yogam": "Am from : 1:23pm;#Si",
+   "Rahu": "05:19pm-06:46pm",
+   "Yama": "12:57pm-02:24pm",
+   "Guli": "03:52pm-05:19pm"
+ },
+ {
+   "Date": "03/10/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Ashtami from : 04:07 AM",
+   "Nakshatram": "Pooradam from : 11:55 AM",
+   "Yogam": "Si from : 11:55am;#Ma",
+   "Rahu": "08:35am-10:02am",
+   "Yama": "11:29am-12:56pm",
+   "Guli": "02:23pm-03:50pm"
+ },
+ {
+   "Date": "04/10/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Navami from : 01:51 AM Suklapaksha - Dashami from : 11:30 PM",
+   "Nakshatram": "Uthiradam from : 10:21 AM",
+   "Yogam": "Si from : 10:21am;#Si",
+   "Rahu": "03:50pm-05:16pm",
+   "Yama": "10:02am-11:28am",
+   "Guli": "12:56pm-02:22pm"
+ },
+ {
+   "Date": "05/10/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Ekadashi from : 09:10 PM",
+   "Nakshatram": "Thiruvonam from : 08:45 AM",
+   "Yogam": "Si from : 8:45am;#Ma",
+   "Rahu": "12:56pm-02:22pm",
+   "Yama": "08:36am-10:02am",
+   "Guli": "11:29am-12:55pm"
+ },
+ {
+   "Date": "06/10/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Dwadashi from : 06:56 PM",
+   "Nakshatram": "Avittam from : 07:12 AM",
+   "Yogam": "Si from : 7:12am;#Ma",
+   "Rahu": "02:22pm-03:48pm",
+   "Yama": "07:11am-08:37am",
+   "Guli": "10:03am-11:29am"
+ },
+ {
+   "Date": "07/10/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Trayodashi from : 04:55 PM",
+   "Nakshatram": "Sathayam from : 05:48 AM",
+   "Yogam": "Si from : 5:48am;#Si",
+   "Rahu": "11:29am-12:54pm",
+   "Yama": "03:47pm-05:12pm",
+   "Guli": "08:37am-10:02am"
+ },
+ {
+   "Date": "08/10/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Chaturdashi from : 03:12 PM",
+   "Nakshatram": "Poorattathi from : 04:38 AM",
+   "Yogam": "Ma from : 4:38am;#Si",
+   "Rahu": "10:04am-11:29am",
+   "Yama": "02:21pm-03:46pm",
+   "Guli": "07:13am-08:38am"
+ },
+ {
+   "Date": "09/10/2022",
+   "Day": "Sun",
+   "Tithi": "Pournami from : 01:54 PM",
+   "Nakshatram": "Uthirattathi from : 03:51 AM",
+   "Yogam": "Am from : 3:51am;#Am",
+   "Rahu": "05:10pm-06:35pm",
+   "Yama": "12:55pm-02:20pm",
+   "Guli": "03:45pm-05:10pm"
+ },
+ {
+   "Date": "10/10/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Pirathamai from : 01:08 PM",
+   "Nakshatram": "Revathi from : 03:32 AM",
+   "Yogam": "Si from : 3:32am;#Si",
+   "Rahu": "08:40am-10:05am",
+   "Yama": "11:30am-12:55pm",
+   "Guli": "02:20pm-03:45pm"
+ },
+ {
+   "Date": "11/10/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Dwitiyai from : 12:59 PM",
+   "Nakshatram": "Aswini from : 03:48 AM",
+   "Yogam": "Si from : 3:48am;#Si",
+   "Rahu": "03:43pm-05:07pm",
+   "Yama": "10:05am-11:29am",
+   "Guli": "12:54pm-02:18pm"
+ },
+ {
+   "Date": "12/10/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Thiruthiyai from : 01:29 PM",
+   "Nakshatram": "Bharani from : 04:40 AM",
+   "Yogam": "Si from : 4:40am;#Am",
+   "Rahu": "12:54pm-02:18pm",
+   "Yama": "08:41am-10:05am",
+   "Guli": "11:30am-12:54pm"
+ },
+ {
+   "Date": "14/10/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Panchami from : 04:22 PM",
+   "Nakshatram": "Rohini from : 08:18 AM",
+   "Yogam": "Ma from : 8:18am;#Si",
+   "Rahu": "11:30am-12:53pm",
+   "Yama": "03:41pm-05:04pm",
+   "Guli": "08:42am-10:05am"
+ },
+ {
+   "Date": "13/10/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Chaturthi from : 02:38 PM",
+   "Nakshatram": "Karthigai from : 06:11 AM",
+   "Yogam": "Ma from : 6:11am;#Ma",
+   "Rahu": "02:18pm-03:42pm",
+   "Yama": "07:18am-08:42am",
+   "Guli": "10:06am-11:30am"
+ },
+ {
+   "Date": "15/10/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Sashti from : 06:33 PM",
+   "Nakshatram": "Mirugasirisham from : 10:52 AM",
+   "Yogam": "Si from : 10:52am;#Si",
+   "Rahu": "10:06am-11:29am",
+   "Yama": "02:16pm-03:39pm",
+   "Guli": "07:20am-08:43am"
+ },
+ {
+   "Date": "16/10/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Sapthami from : 09:00 PM",
+   "Nakshatram": "Thiruvathiraia from : 01:45 PM",
+   "Yogam": "Si from : 1:45pm;#Si",
+   "Rahu": "05:02pm-06:25pm",
+   "Yama": "12:53pm-02:16pm",
+   "Guli": "03:39pm-05:02pm"
+ },
+ {
+   "Date": "17/10/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Ashtami from : 11:28 PM",
+   "Nakshatram": "Punarpoosam from : 04:43 PM",
+   "Yogam": "Am from : 4:43pm;#Si",
+   "Rahu": "08:44am-10:06am",
+   "Yama": "11:30am-12:52pm",
+   "Guli": "02:16pm-03:38pm"
+ },
+ {
+   "Date": "18/10/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Navami from : 1:43am+",
+   "Nakshatram": "Poosam from : 07:32 PM",
+   "Yogam": "Si from : 7:32pm;#Si",
+   "Rahu": "03:38pm-05:00pm",
+   "Yama": "10:08am-11:30am",
+   "Guli": "12:53pm-02:15pm"
+ },
+ {
+   "Date": "19/10/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Navami from : 01:43 AM",
+   "Nakshatram": "Ayilyam from : 10:01 PM",
+   "Yogam": "Si from : 10:01pm;#Si",
+   "Rahu": "12:53pm-02:15pm",
+   "Yama": "08:46am-10:08am",
+   "Guli": "11:30am-12:52pm"
+ },
+ {
+   "Date": "20/10/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Dashami from : 03:34 AM",
+   "Nakshatram": "Ayilyam",
+   "Yogam": "Si",
+   "Rahu": "02:15pm-03:37pm",
+   "Yama": "07:25am-08:47am",
+   "Guli": "10:09am-11:31am"
+ },
+ {
+   "Date": "21/10/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Ekadashi from : 04:52 AM",
+   "Nakshatram": "Pooram from : 1:21am+",
+   "Yogam": "Si",
+   "Rahu": "11:30am-12:51pm",
+   "Yama": "03:35pm-04:56pm",
+   "Guli": "08:47am-10:08am"
+ },
+ {
+   "Date": "22/10/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Dwadashi from : 05:32 AM",
+   "Nakshatram": "Pooram from : 01:21 AM",
+   "Yogam": "Si from : 1:21am;#Ma",
+   "Rahu": "10:09am-11:30am",
+   "Yama": "02:13pm-03:34pm",
+   "Guli": "07:27am-08:48am"
+ },
+ {
+   "Date": "23/10/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Trayodashi from : 05:33 AM",
+   "Nakshatram": "Uthiram from : 02:05 AM",
+   "Yogam": "Am from : 2:05am;#Am",
+   "Rahu": "04:55pm-06:16pm",
+   "Yama": "12:52pm-02:13pm",
+   "Guli": "03:34pm-04:55pm"
+ },
+ {
+   "Date": "24/10/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Chaturdashi from : 04:57 AM",
+   "Nakshatram": "Hastham from : 02:12 AM",
+   "Yogam": "Si from : 2:12am;#Si",
+   "Rahu": "08:49am-10:09am",
+   "Yama": "11:31am-12:51pm",
+   "Guli": "02:12pm-03:32pm"
+ },
+ {
+   "Date": "25/10/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Amaavaasai from : 03:48 AM",
+   "Nakshatram": "Chithirai from : 01:47 AM",
+   "Yogam": "Si from : 1:47am;#Si",
+   "Rahu": "03:33pm-04:53pm",
+   "Yama": "10:11am-11:31am",
+   "Guli": "12:52pm-02:12pm"
+ },
+ {
+   "Date": "26/10/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Pirathamai from : 02:12 AM",
+   "Nakshatram": "Swathi from : 12:55 AM Visakam from : 11:41 PM",
+   "Yogam": "Si from : 0:55am;#Si Si from : 11:41pm; Si",
+   "Rahu": "12:52pm-02:12pm",
+   "Yama": "08:51am-10:11am",
+   "Guli": "11:31am-12:51pm"
+ },
+ {
+   "Date": "27/10/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Dwitiyai from : 12:15 AM Suklapaksha - Thiruthiyai from : 10:03 PM",
+   "Nakshatram": "Anusham from : 10:13 PM",
+   "Yogam": "Si from : 10:13pm;#Si",
+   "Rahu": "02:12pm-03:32pm",
+   "Yama": "07:32am-08:52am",
+   "Guli": "10:12am-11:32am"
+ },
+ {
+   "Date": "28/10/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Chaturthi from : 07:43 PM",
+   "Nakshatram": "Kettai from : 08:36 PM",
+   "Yogam": "Ma from : 8:36pm;#Am",
+   "Rahu": "11:32am-12:51pm",
+   "Yama": "03:31pm-04:50pm",
+   "Guli": "08:52am-10:11am"
+ },
+ {
+   "Date": "29/10/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Panchami from : 05:19 PM",
+   "Nakshatram": "Moolam from : 06:56 PM",
+   "Yogam": "Si from : 6:56pm;#Si",
+   "Rahu": "10:12am-11:31am",
+   "Yama": "02:10pm-03:29pm",
+   "Guli": "07:34am-08:53am"
+ },
+ {
+   "Date": "30/10/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Sashti from : 02:57 PM",
+   "Nakshatram": "Pooradam from : 05:18 PM",
+   "Yogam": "Si from : 5:18pm;#Am",
+   "Rahu": "04:48pm-06:07pm",
+   "Yama": "12:51pm-02:10pm",
+   "Guli": "03:29pm-04:48pm"
+ },
+ {
+   "Date": "31/10/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Sapthami from : 12:41 PM",
+   "Nakshatram": "Uthiradam from : 03:46 PM",
+   "Yogam": "Ma from : 3:46pm;#Am",
+   "Rahu": "08:54am-10:12am",
+   "Yama": "11:32am-12:50pm",
+   "Guli": "02:10pm-03:28pm"
+ },
+ {
+   "Date": "01/11/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Ashtami from : 10:34 AM",
+   "Nakshatram": "Thiruvonam from : 02:23 PM",
+   "Yogam": "Si from : 2:23pm;#Si",
+   "Rahu": "03:28pm-04:46pm",
+   "Yama": "10:14am-11:32am",
+   "Guli": "12:51pm-02:09pm"
+ },
+ {
+   "Date": "02/11/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Navami from : 08:39 AM",
+   "Nakshatram": "Avittam from : 01:13 PM",
+   "Yogam": "Ma from : 1:13pm;#Si",
+   "Rahu": "12:51pm-02:09pm",
+   "Yama": "08:56am-10:14am",
+   "Guli": "11:33am-12:51pm"
+ },
+ {
+   "Date": "03/11/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Dashami from : 07:00 AM",
+   "Nakshatram": "Sathayam from : 12:19 PM",
+   "Yogam": "Ma from : 12:19pm;#Si",
+   "Rahu": "02:09pm-03:27pm",
+   "Yama": "07:39am-08:57am",
+   "Guli": "10:15am-11:33am"
+ },
+ {
+   "Date": "04/11/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Ekadashi from : 05:38 AM",
+   "Nakshatram": "Poorattathi from : 11:43 AM",
+   "Yogam": "Si from : 11:43am;#Si",
+   "Rahu": "11:33am-12:50pm",
+   "Yama": "03:27pm-04:44pm",
+   "Guli": "08:57am-10:14am"
+ },
+ {
+   "Date": "05/11/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Dwadashi from : 04:37 AM",
+   "Nakshatram": "Uthirattathi from : 11:27 AM",
+   "Yogam": "Si from : 11:27am;#Ma",
+   "Rahu": "10:16am-11:33am",
+   "Yama": "02:09pm-03:26pm",
+   "Guli": "07:41am-08:58am"
+ },
+ {
+   "Date": "06/11/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Trayodashi from : 02:58 AM",
+   "Nakshatram": "Revathi from : 10:34 AM",
+   "Yogam": "Am from : 10:34am;#Si",
+   "Rahu": "03:43pm-05:00pm",
+   "Yama": "11:51am-01:08pm",
+   "Guli": "02:26pm-03:43pm"
+ },
+ {
+   "Date": "07/11/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Chaturdashi from : 02:46 AM",
+   "Nakshatram": "Aswini from : 11:08 AM",
+   "Yogam": "Si from : 11:08am;#Si",
+   "Rahu": "08:00am-09:17am",
+   "Yama": "10:34am-11:51am",
+   "Guli": "01:08pm-02:25pm"
+ },
+ {
+   "Date": "08/11/2022",
+   "Day": "Tue",
+   "Tithi": "Pournami from : 03:01 AM",
+   "Nakshatram": "Bharani from : 12:09 PM",
+   "Yogam": "Si from : 12:09pm;#Si",
+   "Rahu": "02:25pm-03:41pm",
+   "Yama": "09:17am-10:33am",
+   "Guli": "11:51am-01:07pm"
+ },
+ {
+   "Date": "09/11/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Pirathamai from : 03:47 AM",
+   "Nakshatram": "Karthigai from : 01:39 PM",
+   "Yogam": "Am from : 1:39pm;#Si",
+   "Rahu": "11:52am-01:08pm",
+   "Yama": "08:02am-09:18am",
+   "Guli": "10:35am-11:51am"
+ },
+ {
+   "Date": "10/11/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Dwitiyai from : 05:03 AM",
+   "Nakshatram": "Rohini from : 03:38 PM",
+   "Yogam": "Ma from : 3:38pm;#Ma",
+   "Rahu": "01:08pm-02:24pm",
+   "Yama": "06:47am-08:03am",
+   "Guli": "09:19am-10:35am"
+ },
+ {
+   "Date": "11/11/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Thiruthiyai from : 06:47 AM",
+   "Nakshatram": "Mirugasirisham from : 06:03 PM",
+   "Yogam": "Si from : 6:03pm;#Si",
+   "Rahu": "10:36am-11:52am",
+   "Yama": "02:24pm-03:40pm",
+   "Guli": "08:04am-09:20am"
+ },
+ {
+   "Date": "12/11/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Chaturthi from : 08:56 AM",
+   "Nakshatram": "Thiruvathiraia from : 08:48 PM",
+   "Yogam": "Si from : 8:48pm;#Si",
+   "Rahu": "09:20am-10:35am",
+   "Yama": "01:07pm-02:22pm",
+   "Guli": "06:49am-08:04am"
+ },
+ {
+   "Date": "13/11/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Panchami from : 11:21 AM",
+   "Nakshatram": "Punarpoosam from : 11:45 PM",
+   "Yogam": "Si from : 11:45pm;#Si",
+   "Rahu": "03:39pm-04:54pm",
+   "Yama": "11:52am-01:07pm",
+   "Guli": "02:23pm-03:38pm"
+ },
+ {
+   "Date": "14/11/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Sashti from : 01:53 PM",
+   "Nakshatram": "Poosam from : 2:43am+",
+   "Yogam": "Si",
+   "Rahu": "08:06am-09:21am",
+   "Yama": "10:37am-11:52am",
+   "Guli": "01:07pm-02:22pm"
+ },
+ {
+   "Date": "15/11/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Sapthami from : 04:20 PM",
+   "Nakshatram": "Poosam from : 02:43 AM",
+   "Yogam": "Si from : 2:43am;#Si",
+   "Rahu": "02:22pm-03:37pm",
+   "Yama": "09:22am-10:37am",
+   "Guli": "11:52am-01:07pm"
+ },
+ {
+   "Date": "16/11/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Ashtami from : 06:27 PM",
+   "Nakshatram": "Ayilyam from : 05:29 AM",
+   "Yogam": "Si from : 5:29am;#Si",
+   "Rahu": "11:52am-01:06pm",
+   "Yama": "08:07am-09:21am",
+   "Guli": "10:37am-11:51am"
+ },
+ {
+   "Date": "17/11/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Navami from : 08:03 PM",
+   "Nakshatram": "Magam from : 07:51 AM",
+   "Yogam": "Am from : 7:51am;#Si",
+   "Rahu": "01:07pm-02:21pm",
+   "Yama": "06:54am-08:08am",
+   "Guli": "09:23am-10:37am"
+ },
+ {
+   "Date": "18/11/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Dashami from : 08:59 PM",
+   "Nakshatram": "Pooram from : 09:39 AM",
+   "Yogam": "Si from : 9:39am;#Si",
+   "Rahu": "10:38am-11:52am",
+   "Yama": "02:22pm-03:36pm",
+   "Guli": "08:09am-09:23am"
+ },
+ {
+   "Date": "19/11/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Ekadashi from : 09:11 PM",
+   "Nakshatram": "Uthiram from : 10:45 AM",
+   "Yogam": "Ma from : 10:45am;#Ma",
+   "Rahu": "09:24am-10:38am",
+   "Yama": "01:07pm-02:21pm",
+   "Guli": "06:56am-08:10am"
+ },
+ {
+   "Date": "20/11/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Dwadashi from : 08:37 PM",
+   "Nakshatram": "Hastham from : 11:06 AM",
+   "Yogam": "Am from : 11:06am;#Si",
+   "Rahu": "03:35pm-04:49pm",
+   "Yama": "11:53am-01:07pm",
+   "Guli": "02:21pm-03:35pm"
+ },
+ {
+   "Date": "21/11/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Trayodashi from : 07:19 PM",
+   "Nakshatram": "Chithirai from : 10:44 AM",
+   "Yogam": "Si from : 10:44am;#Am",
+   "Rahu": "08:12am-09:25am",
+   "Yama": "10:40am-11:53am",
+   "Guli": "01:07pm-02:20pm"
+ },
+ {
+   "Date": "22/11/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Chaturdashi from : 05:23 PM",
+   "Nakshatram": "Swathi from : 09:42 AM",
+   "Yogam": "Si from : 9:42am;#Ma",
+   "Rahu": "02:21pm-03:34pm",
+   "Yama": "09:27am-10:40am",
+   "Guli": "11:54am-01:07pm"
+ },
+ {
+   "Date": "23/11/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Amaavaasai from : 02:56 PM",
+   "Nakshatram": "Visakam from : 08:07 AM",
+   "Yogam": "Si from : 8:07am;#Si",
+   "Rahu": "11:54am-01:07pm",
+   "Yama": "08:14am-09:27am",
+   "Guli": "10:41am-11:54am"
+ },
+ {
+   "Date": "24/11/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Pirathamai from : 12:07 PM",
+   "Nakshatram": "Anusham from : 06:07 AM",
+   "Yogam": "Si from : 6:07am;#Si",
+   "Rahu": "01:08pm-02:21pm",
+   "Yama": "07:02am-08:15am",
+   "Guli": "09:28am-10:41am"
+ },
+ {
+   "Date": "25/11/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Dwitiyai from : 09:05 AM",
+   "Nakshatram": "Kettai from : 03:51 AM",
+   "Yogam": "Ma from : 3:51am;#Am",
+   "Rahu": "10:42am-11:55am",
+   "Yama": "02:21pm-03:34pm",
+   "Guli": "08:16am-09:29am"
+ },
+ {
+   "Date": "26/11/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Thiruthiyai from : 05:58 AM",
+   "Nakshatram": "Moolam from : 01:29 AM Pooradam from : 11:08 PM",
+   "Yogam": "Si from : 1:29am;#Si Si from 11:08pm; Si",
+   "Rahu": "09:29am-10:41am",
+   "Yama": "01:08pm-02:20pm",
+   "Guli": "07:04am-08:16am"
+ },
+ {
+   "Date": "27/11/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Chaturthi from : 02:55 AM",
+   "Nakshatram": "Uthiradam from : 08:59 PM",
+   "Yogam": "Am from : 8:59pm;#Am",
+   "Rahu": "03:34pm-04:46pm",
+   "Yama": "11:56am-01:08pm",
+   "Guli": "02:21pm-03:33pm"
+ },
+ {
+   "Date": "28/11/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Panchami from : 12:05 AM Suklapaksha - Sashti from : 09:34 PM",
+   "Nakshatram": "Thiruvonam from : 07:08 PM",
+   "Yogam": "Am from : 7:08pm;#Si",
+   "Rahu": "08:18am-09:30am",
+   "Yama": "10:43am-11:55am",
+   "Guli": "01:08pm-02:20pm"
+ },
+ {
+   "Date": "29/11/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Sapthami from : 07:28 PM",
+   "Nakshatram": "Avittam from : 05:42 PM",
+   "Yogam": "Si from : 5:42pm;#Ma",
+   "Rahu": "02:21pm-03:33pm",
+   "Yama": "09:31am-10:43am",
+   "Guli": "11:56am-01:08pm"
+ },
+ {
+   "Date": "30/11/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Ashtami from : 05:51 PM",
+   "Nakshatram": "Sathayam from : 04:43 PM",
+   "Yogam": "Si from : 4:43pm;#Am",
+   "Rahu": "11:57am-01:09pm",
+   "Yama": "08:20am-09:32am",
+   "Guli": "10:44am-11:56am"
+ },
+ {
+   "Date": "01/12/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Navami from : 04:44 PM",
+   "Nakshatram": "Poorattathi from : 04:14 PM",
+   "Yogam": "Si from : 4:14pm;#Si",
+   "Rahu": "01:09pm-02:21pm",
+   "Yama": "07:09am-08:21am",
+   "Guli": "09:33am-10:45am"
+ },
+ {
+   "Date": "02/12/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Dashami from : 04:09 PM",
+   "Nakshatram": "Uthirattathi from : 04:16 PM",
+   "Yogam": "Si from : 4:16pm;#Am",
+   "Rahu": "10:45am-11:56am",
+   "Yama": "02:21pm-03:32pm",
+   "Guli": "08:21am-09:32am"
+ },
+ {
+   "Date": "03/12/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Ekadashi from : 04:04 PM",
+   "Nakshatram": "Revathi from : 04:47 PM",
+   "Yogam": "Ma from : 4:47pm;#Si",
+   "Rahu": "09:34am-10:45am",
+   "Yama": "01:09pm-02:20pm",
+   "Guli": "07:11am-08:22am"
+ },
+ {
+   "Date": "04/12/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Dwadashi from : 04:27 PM",
+   "Nakshatram": "Aswini from : 05:45 PM",
+   "Yogam": "Si from : 5:45pm;#Si",
+   "Rahu": "03:33pm-04:44pm",
+   "Yama": "11:58am-01:09pm",
+   "Guli": "02:21pm-03:32pm"
+ },
+ {
+   "Date": "06/12/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Chaturdashi from : 06:31 PM",
+   "Nakshatram": "Karthigai from : 08:56 PM",
+   "Yogam": "Si from : 8:56pm;#Am",
+   "Rahu": "02:22pm-03:33pm",
+   "Yama": "09:36am-10:47am",
+   "Guli": "11:59am-01:10pm"
+ },
+ {
+   "Date": "05/12/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Trayodashi from : 05:17 PM",
+   "Nakshatram": "Bharani from : 07:09 PM",
+   "Yogam": "Si from : 7:09pm;#Ma",
+   "Rahu": "08:23am-09:34am",
+   "Yama": "10:46am-11:57am",
+   "Guli": "01:10pm-02:21pm"
+ },
+ {
+   "Date": "07/12/2022",
+   "Day": "Wed",
+   "Tithi": "Pournami from : 08:07 PM",
+   "Nakshatram": "Rohini from : 11:03 PM",
+   "Yogam": "Si from : 11:03pm;#Si",
+   "Rahu": "11:59am-01:10pm",
+   "Yama": "08:25am-09:36am",
+   "Guli": "10:48am-11:59am"
+ },
+ {
+   "Date": "08/12/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Pirathamai from : 10:04 PM",
+   "Nakshatram": "Mirugasirisham from : 1:30am+",
+   "Yogam": "Si",
+   "Rahu": "01:11pm-02:22pm",
+   "Yama": "07:15am-08:26am",
+   "Guli": "09:37am-10:48am"
+ },
+ {
+   "Date": "09/12/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Dwitiyai from : 0:17am+",
+   "Nakshatram": "Mirugasirisham from : 01:30 AM",
+   "Yogam": "Si from : 1:30am;#Si",
+   "Rahu": "10:49am-12:00pm",
+   "Yama": "02:22pm-03:33pm",
+   "Guli": "08:27am-09:38am"
+ },
+ {
+   "Date": "10/12/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Dwitiyai from : 12:17 AM",
+   "Nakshatram": "Thiruvathiraia from : 04:12 AM",
+   "Yogam": "Si from : 4:12am;#Si",
+   "Rahu": "09:39am-10:50am",
+   "Yama": "01:12pm-02:23pm",
+   "Guli": "07:17am-08:28am"
+ },
+ {
+   "Date": "11/12/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Thiruthiyai from : 02:44 AM",
+   "Nakshatram": "Punarpoosam from : 07:07 AM",
+   "Yogam": "Si from : 7:07am;#Si",
+   "Rahu": "03:34pm-04:45pm",
+   "Yama": "12:01pm-01:12pm",
+   "Guli": "02:23pm-03:34pm"
+ },
+ {
+   "Date": "12/12/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Chaturthi from : 05:18 AM",
+   "Nakshatram": "Poosam from : 10:06 AM",
+   "Yogam": "Si from : 10:06am;#Si",
+   "Rahu": "08:29am-09:40am",
+   "Yama": "10:51am-12:02pm",
+   "Guli": "01:13pm-02:24pm"
+ },
+ {
+   "Date": "13/12/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Panchami from : 07:51 AM",
+   "Nakshatram": "Ayilyam from : 01:03 PM",
+   "Yogam": "Si from : 1:03pm;#Si",
+   "Rahu": "02:24pm-03:34pm",
+   "Yama": "09:40am-10:50am",
+   "Guli": "12:02pm-01:12pm"
+ },
+ {
+   "Date": "14/12/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Sashti from : 10:12 AM",
+   "Nakshatram": "Magam from : 03:46 PM",
+   "Yogam": "Si from : 3:46pm;#Am",
+   "Rahu": "12:03pm-01:13pm",
+   "Yama": "08:30am-09:40am",
+   "Guli": "10:52am-12:02pm"
+ },
+ {
+   "Date": "15/12/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Sapthami from : 12:09 PM",
+   "Nakshatram": "Pooram from : 06:05 PM",
+   "Yogam": "Si from : 6:05pm;#Ma",
+   "Rahu": "01:13pm-02:23pm",
+   "Yama": "07:20am-08:30am",
+   "Guli": "09:41am-10:51am"
+ },
+ {
+   "Date": "16/12/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Ashtami from : 01:32 PM",
+   "Nakshatram": "Uthiram from : 07:49 PM",
+   "Yogam": "Si from : 7:49pm;#Am",
+   "Rahu": "10:53am-12:03pm",
+   "Yama": "02:25pm-03:35pm",
+   "Guli": "08:31am-09:41am"
+ },
+ {
+   "Date": "17/12/2022",
+   "Day": "Sat",
+   "Tithi": "Krishnapaksha - Navami from : 02:11 PM",
+   "Nakshatram": "Hastham from : 08:49 PM",
+   "Yogam": "Ma from : 8:49pm;#Ma",
+   "Rahu": "09:43am-10:53am",
+   "Yama": "01:15pm-02:25pm",
+   "Guli": "07:22am-08:32am"
+ },
+ {
+   "Date": "18/12/2022",
+   "Day": "Sun",
+   "Tithi": "Krishnapaksha - Dashami from : 02:02 PM",
+   "Nakshatram": "Chithirai from : 09:01 PM",
+   "Yogam": "Si from : 9:01pm;#Si",
+   "Rahu": "03:36pm-04:46pm",
+   "Yama": "12:04pm-01:14pm",
+   "Guli": "02:25pm-03:35pm"
+ },
+ {
+   "Date": "19/12/2022",
+   "Day": "Mon",
+   "Tithi": "Krishnapaksha - Ekadashi from : 01:02 PM",
+   "Nakshatram": "Swathi from : 08:25 PM",
+   "Yogam": "Am from : 8:25pm;#Ma",
+   "Rahu": "08:33am-09:43am",
+   "Yama": "10:54am-12:04pm",
+   "Guli": "01:16pm-02:26pm"
+ },
+ {
+   "Date": "20/12/2022",
+   "Day": "Tue",
+   "Tithi": "Krishnapaksha - Dwadashi from : 11:15 AM",
+   "Nakshatram": "Visakam from : 07:04 PM",
+   "Yogam": "Ma from : 7:04pm;#Si",
+   "Rahu": "02:26pm-03:36pm",
+   "Yama": "09:44am-10:54am",
+   "Guli": "12:05pm-01:15pm"
+ },
+ {
+   "Date": "21/12/2022",
+   "Day": "Wed",
+   "Tithi": "Krishnapaksha - Trayodashi from : 08:46 AM",
+   "Nakshatram": "Anusham from : 05:03 PM",
+   "Yogam": "Si from : 5:03pm;#Si",
+   "Rahu": "12:06pm-01:16pm",
+   "Yama": "08:34am-09:44am",
+   "Guli": "10:55am-12:05pm"
+ },
+ {
+   "Date": "22/12/2022",
+   "Day": "Thu",
+   "Tithi": "Krishnapaksha - Chaturdashi from : 05:43 AM",
+   "Nakshatram": "Kettai from : 02:33 PM",
+   "Yogam": "Si from : 2:33pm;#Si",
+   "Rahu": "01:17pm-02:27pm",
+   "Yama": "07:24am-08:34am",
+   "Guli": "09:45am-10:55am"
+ },
+ {
+   "Date": "23/12/2022",
+   "Day": "Fri",
+   "Tithi": "Krishnapaksha - Amaavaasai from : 02:16 AM Suklapaksha - Pirathamai from : 10:36 PM",
+   "Nakshatram": "Moolam from : 11:43 AM",
+   "Yogam": "Am from : 11:43am;#Si",
+   "Rahu": "10:56am-12:06pm",
+   "Yama": "02:28pm-03:38pm",
+   "Guli": "08:35am-09:45am"
+ },
+ {
+   "Date": "24/12/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Dwitiyai from : 06:54 PM",
+   "Nakshatram": "Pooradam from : 08:46 AM",
+   "Yogam": "Si from : 8:46am;#Si",
+   "Rahu": "09:46am-10:56am",
+   "Yama": "01:18pm-02:28pm",
+   "Guli": "07:25am-08:35am"
+ },
+ {
+   "Date": "25/12/2022",
+   "Day": "Sun",
+   "Tithi": "Suklapaksha - Thiruthiyai from : 03:21 PM",
+   "Nakshatram": "Uthiradam from : 05:51 AM",
+   "Yogam": "Am from : 5:51am;#Am",
+   "Rahu": "03:40pm-04:50pm",
+   "Yama": "12:08pm-01:18pm",
+   "Guli": "02:29pm-03:39pm"
+ },
+ {
+   "Date": "26/12/2022",
+   "Day": "Mon",
+   "Tithi": "Suklapaksha - Chaturthi from : 12:07 PM",
+   "Nakshatram": "Thiruvonam from : 03:12 AM",
+   "Yogam": "Am from : 3:12am;#Si",
+   "Rahu": "08:36am-09:46am",
+   "Yama": "10:58am-12:08pm",
+   "Guli": "01:19pm-02:29pm"
+ },
+ {
+   "Date": "27/12/2022",
+   "Day": "Tue",
+   "Tithi": "Suklapaksha - Panchami from : 09:23 AM",
+   "Nakshatram": "Avittam from : 12:57 AM Sathayam from : 11:16 PM",
+   "Yogam": "Si from : 0:57am;#Ma Ma from : 11:16pm;#Ma",
+   "Rahu": "02:30pm-03:40pm",
+   "Yama": "09:47am-10:57am",
+   "Guli": "12:09pm-01:19pm"
+ },
+ {
+   "Date": "28/12/2022",
+   "Day": "Wed",
+   "Tithi": "Suklapaksha - Sashti from : 07:14 AM",
+   "Nakshatram": "Poorattathi from : 10:14 PM",
+   "Yogam": "Am from : 10:14pm;#Si",
+   "Rahu": "12:10pm-01:20pm",
+   "Yama": "08:37am-09:47am",
+   "Guli": "10:59am-12:09pm"
+ },
+ {
+   "Date": "29/12/2022",
+   "Day": "Thu",
+   "Tithi": "Suklapaksha - Sapthami from : 05:47 AM",
+   "Nakshatram": "Uthirattathi from : 09:55 PM",
+   "Yogam": "Si from : 9:55pm;#Si",
+   "Rahu": "01:21pm-02:31pm",
+   "Yama": "07:27am-08:37am",
+   "Guli": "09:48am-10:58am"
+ },
+ {
+   "Date": "30/12/2022",
+   "Day": "Fri",
+   "Tithi": "Suklapaksha - Ashtami from : 05:03 AM",
+   "Nakshatram": "Revathi from : 10:17 PM",
+   "Yogam": "Si from : 11:19pm;#Si",
+   "Rahu": "09:49am-11:00am",
+   "Yama": "01:22pm-02:33pm",
+   "Guli": "07:27am-08:38am"
+ },
+ {
+   "Date": "31/12/2022",
+   "Day": "Sat",
+   "Tithi": "Suklapaksha - Navami from : 05:03 AM",
+   "Nakshatram": "Aswini from : 11:19 PM",
+   "Yogam": "Am from : 10:17pm;#Am",
+   "Rahu": "10:59am-12:09pm",
+   "Yama": "02:32pm-03:42pm",
+   "Guli": "08:37am-09:47am"
+ }
+]
