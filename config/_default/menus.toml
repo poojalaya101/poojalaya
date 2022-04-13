@@ -26,7 +26,7 @@
 #https://wordpress.com/support/markdown-quick-reference/
 [[main]]
     name = "Homams"
-    url = "/homams/homam-havan"
+    url = "/poojalaya/homams/homam-havan"
     weight = 20
 [[main]]
     parent = "Homams"
